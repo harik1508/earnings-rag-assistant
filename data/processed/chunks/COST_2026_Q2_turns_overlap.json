@@ -1,0 +1,582 @@
+[
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_0",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": "[Gary Millerchip (executive)]: Costco's second quarter 2026 earnings call. In addition to covering our second quarter financial results today, we will also review our February sales results. I would like to start by reminding you that these discussions will include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties that may cause actual events, results, and/or performance to differ materially from those indicated by such statements. The risks and uncertainties include, but are not limited to, those outlined in today's call, as well as other risks identified from time to time in the company's public statements and reports filed with the SEC. Forward-looking statements speak only as of the date they are made, and the company does not undertake to update these statements except as required by law. Comparable sales and comparable sales excluding impacts from changes in gasoline prices and foreign exchange are intended as supplemental information and are not a substitute for net sales presented in accordance with GAAP. Before we dive into our results, I am delighted to say that Ron Vachris is once again joining me for today's call. I will now hand over to Ron for some opening comments.",
+    "token_count": 243,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_1",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " substitute for net sales presented in accordance with GAAP. Before we dive into our results, I am delighted to say that Ron Vachris is once again joining me for today's call. I will now hand over to Ron for some opening comments. [Ron Vachris (executive)]: Thank you, Gary. Good afternoon, everyone, and thank you for joining us today. I will make a few brief comments about some key business priorities before turning it back over to Gary. Let me start by addressing tariffs, as I know this is a topic of great interest to our members and our shareholders. The future impact of tariffs remains extremely fluid, as the recently eliminated AIPA tariffs have now been replaced with new global tariffs for at least the next 150 days. Our buyers continue to act with great agility and urgency, always with the goal of reducing the impact of tariffs on prices for our members. We believe our expertise in buying and our limited SKU count model puts us in a position to manage this as well as anyone. Our strategies include moving the country of production when that makes sense, consolidating buying efforts globally to lower the cost of goods, leaning in on Kirkland Signature where we have the most control of the supply chain, and sourcing more items domestically. Regarding IEPA tariff refunds, it is not yet clear what the process will be, what refunds, if any, will be received, and when this will happen. Throughout the past year, we have taken action to reduce the impact of tariffs; in many cases, we did not pass the full cost on to our members.",
+    "token_count": 320,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_2",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " be, what refunds, if any, will be received, and when this will happen. Throughout the past year, we have taken action to reduce the impact of tariffs; in many cases, we did not pass the full cost on to our members. [Ron Vachris (executive)]: The complexity of the tariffs implemented over the past year, including layering of different tariffs on top of each other and multiple changes in rates throughout the year, also made it challenging to track the exact impact to an individual item sold. As we have done in the past, when legal challenges have recovered charges passed on in some form to our members, our commitment will be to find the best way to return this value to our members through lower prices and better values. We will be transparent in how we plan to do this if and when we receive any refunds. At Costco, we always want to be the first to lower prices and the last to raise them. During the second quarter, we lowered prices on key items such as eggs, cheese, coffee, and some paper products as we saw lower inflation in these commodities. We will continue to be a pricing authority, and as some tariffs have been reduced, we are lowering prices on affected items such as certain textiles, bedding, and cookware SKUs. Turning to our growth priorities, as I shared last quarter, our real estate and operations teams are focused on increasing our pipeline of new warehouses both domestically and internationally. Since our last call, we opened four warehouses, including one relocation in the US, one net new US location, and two additional Canadian business centers. This brings our total warehouse count to 924 warehouses worldwide.",
+    "token_count": 334,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_3",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " of new warehouses both domestically and internationally. Since our last call, we opened four warehouses, including one relocation in the US, one net new US location, and two additional Canadian business centers. This brings our total warehouse count to 924 warehouses worldwide. [Ron Vachris (executive)]: We currently expect to have 28 net new openings in fiscal year 2026 and are targeting 30-plus new openings per year in the coming years. In digital, we continue to make strides with our roadmap to deliver a more seamless experience for members in warehouse and online. In the warehouses, we are achieving meaningful improvements in the speed of checkout and employee productivity, both as a result of our mobile wallet enhancements, pharmacy pay ahead, and the rollout of employee pre-scan technology. We are also piloting automated pay stations that will allow members to pay for their pre-scan orders seamlessly with an average transaction time of around eight seconds. Early results show this is improving the flow of traffic, and we have received great member feedback. On our digital sites, we continue to roll out new personalization capabilities, which are resonating well with our members and are starting to have measurable impact on ecommerce sales growth. As consumers embrace AI in their shopping habits, we believe our commitments to providing the best value on great quality items can make us a beneficiary of these shifts. We are working closely with the leading AI companies to ensure our values will be visible to existing and potential future Costco members as they engage with these tools. With that, I will turn it back over to Gary to discuss the results for the quarter, and I will jump back on during Q&A to field some questions.",
+    "token_count": 336,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_4",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " will be visible to existing and potential future Costco members as they engage with these tools. With that, I will turn it back over to Gary to discuss the results for the quarter, and I will jump back on during Q&A to field some questions. [Gary Millerchip (executive)]: Thanks, Ron. In today's press release, we reported operating results for 2026, the twelve weeks ending February 15. As usual, we published a slide deck under Events and Presentations on our investor website with supplemental information to support today's press release. Net income for the second quarter came in at $2,035,000,000, or $4.58 per diluted share, up nearly 14% from $1,788,000,000, or $4.02 per diluted share, in the second quarter last year. Net sales for the second quarter were $68,240,000,000, an increase of 9.1% from $62,530,000,000 in Q2 2025. Comparable sales were up 7.4%, or 6.7% adjusted for gas price deflation and FX. Excluding gas sales entirely and adjusting for the impact of foreign exchange, comparable sales were up 7.4%. Digitally enabled comparable sales were up 22.6%, or 21.7% adjusted for FX. Our segment breakout of comparable sales is disclosed in both our earnings release and the supplemental slide deck. In terms of Q2 comp sales metrics, FX positively impacted sales by approximately 1.4%, while gas price deflation negatively impacted sales by approximately 0.7%. Traffic, or shopping frequency, increased 3.1% worldwide.",
+    "token_count": 348,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_5",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": ". In terms of Q2 comp sales metrics, FX positively impacted sales by approximately 1.4%, while gas price deflation negatively impacted sales by approximately 0.7%. Traffic, or shopping frequency, increased 3.1% worldwide. [Gary Millerchip (executive)]: Our average transaction, or ticket, was up 4.2% worldwide and 3.5% excluding gas price deflation and changes in FX. Moving down the income statement to membership fee income, we reported membership fee income of $1,355,000,000, an increase of $162,000,000, or 13.6% year over year. Adjusting for FX, the increase was 12.2%. The September 2024 US and Canada membership fee increase accounted for about one-third of our membership income growth. Excluding the membership fee increase and FX, membership income grew 7.5% year over year. This was driven by continued growth in our membership base and upgrades to executive memberships. At Q2 end, we had 40,400,000 paid memberships, up 9.5% versus last year. We ended the quarter with 82,100,000 total paid members, up 4.8% versus last year, and 147,200,000 cardholders, up 4.7% year over year. In terms of renewal rates, at Q2 end, our US and Canada renewal rate was 92.1%, down 10 basis points from last quarter, and the worldwide rate came in at 89.7%, unchanged from last quarter.",
+    "token_count": 327,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_6",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": ". In terms of renewal rates, at Q2 end, our US and Canada renewal rate was 92.1%, down 10 basis points from last quarter, and the worldwide rate came in at 89.7%, unchanged from last quarter. [Gary Millerchip (executive)]: The slight decline in the US and Canada renewal rate was due to the factors we have discussed in prior quarters and reflects new online members growing as a percentage of our total base and renewing at a slightly lower rate than warehouse sign-ups. We continue to focus on increasing the renewal rate of these new online members through targeted digital communications and retention strategies, and those efforts partially offset the negative effect of the increased penetration of online sign-ups. Turning to gross margin, our reported rate was higher year over year by 17 basis points, and higher by 11 basis points without gas deflation, coming in at 11.02% compared to 10.85% last year. Core was lower by three basis points, and lower by seven basis points excluding gas deflation. In terms of core margins on their own sales, our core-on-core margins were higher by 22 basis points. The increase in core-on-core margins was broad-based, with nonfoods, food and sundries, and fresh all higher year over year. The difference between reported core margins and core-on-core margins was driven by mix changes as well as higher 2% executive rewards and lower income from our co-brand credit card program compared to last year. Ancillary and other businesses gross margin was higher by 19 basis points, or 17 basis points excluding gas deflation. This was driven by higher gas profitability and strong growth in pharmacy.",
+    "token_count": 342,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_7",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " from our co-brand credit card program compared to last year. Ancillary and other businesses gross margin was higher by 19 basis points, or 17 basis points excluding gas deflation. This was driven by higher gas profitability and strong growth in pharmacy. [Gary Millerchip (executive)]: LIFO negatively impacted the gross margin rate by four basis points. We had a $12,000,000 LIFO charge in Q2 this year, compared to a $12,000,000 credit in Q2 last year. This quarter's gross margin rate also included a nonrecurring legal settlement that had a positive impact of five basis points. Moving on to SG&A, our reported SG&A rate was higher, or worse, year over year by 13 basis points, and higher, or worse, by eight basis points without gas deflation, coming in at 9.19% compared to last year's 9.06%. The operations component of SG&A was higher, or worse, by two basis points, but better, or lower, by two basis points excluding the impact of gas deflation. Our operators once again did a great job improving productivity and capturing efficiency benefits from the technology investments we have recently implemented. These productivity improvements fully offset last year's wage investments and any impact of extended operating hours. Central was higher, or worse, by four basis points and higher by three basis points excluding the impact of gas deflation. This quarter's SG&A also included an increase in general liability reserves to reflect higher expected future costs for prior year claims not yet settled. This negatively impacted the rate by six basis points.",
+    "token_count": 327,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_8",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " higher by three basis points excluding the impact of gas deflation. This quarter's SG&A also included an increase in general liability reserves to reflect higher expected future costs for prior year claims not yet settled. This negatively impacted the rate by six basis points. [Gary Millerchip (executive)]: Below the operating income line, interest expense was $33,000,000 versus $36,000,000 last year. Interest income was $140,000,000 versus $109,000,000 last year, driven by higher cash balances, and FX and other was an $8,000,000 benefit this year versus a $33,000,000 benefit last year, largely due to changes in FX. In terms of income taxes, our tax rate in Q2 was 25.2% compared to 26.2% in Q2 last year. Turning now to some key items of note in the quarter, capital expenditures in Q2 were $1,290,000,000. We estimate CapEx for the full year will be approximately $6,500,000,000 as we continue to invest in building a larger pipeline of new warehouses, remodeling our existing warehouses to drive continued growth in high-volume buildings, expanding our depot network to support operations, and enhancing the member digital experience. In terms of merchandising highlights, the Lunar New Year celebration this year showcased our merchants' global buying expertise. We were able to introduce many exciting new items for our members that helped drive growth across fresh, foods and sundries, and nonfood categories in the US and our international markets.",
+    "token_count": 321,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_9",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " Lunar New Year celebration this year showcased our merchants' global buying expertise. We were able to introduce many exciting new items for our members that helped drive growth across fresh, foods and sundries, and nonfood categories in the US and our international markets. [Gary Millerchip (executive)]: Some of the best sellers included items ranging from duck and quail eggs, Year of the Horse-inspired gold jewelry and bullion, and Shine Muscat grapes. We also had a very successful Valentine's Day. In fact, laid out stem to stem, the roses we sold in the US for Valentine's Day this year would have stretched all the way from Seattle to New York City and back again. Fresh comparable sales were up low double digits in the quarter, led by meat and bakery. In meat, we saw strong growth in both premium cuts of beef and lower-cost proteins such as ground beef and poultry. In bakery, we continue to see success with the launch of exciting new items like the chocolate hazelnut mini beignets and a variety of seasonal pastries and cookies. Nonfood comp sales were up high single digits in Q2. Top-performing departments were gold and jewelry, tires, majors, health and beauty, and small electrics. Unique items continue to play an important role in creating excitement for our members in nonfoods, and our second quarter sales included a $150,000 emerald-cut 5.8 carat diamond ring, a $20,000 Babe Ruth autograph baseball, and nearly 200 luxury Whisper golf carts at an average price of approximately $9,000. In food and sundries, comps grew mid single digits, led by candy and packaged foods.",
+    "token_count": 341,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_10",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": ", a $20,000 Babe Ruth autograph baseball, and nearly 200 luxury Whisper golf carts at an average price of approximately $9,000. In food and sundries, comps grew mid single digits, led by candy and packaged foods. [Gary Millerchip (executive)]: While egg price deflation is expected to continue to be a headwind to sales in food and sundries for the foreseeable future, we are seeing significant unit and market share growth in eggs because of our strong value proposition. Overall inflation decreased slightly in Q2, as we saw lower inflation in foods and sundries and fresh, led by deflation in produce, eggs, and dairy. This was partially offset by slightly higher inflation in nonfoods. The supply chain was also relatively stable in Q2, and our merchants feel good about our current inventory position heading into the spring. That said, as we look at the rest of the fiscal year, the situation in the Middle East could impact fuel costs and shipping schedules if there is instability in the region for a sustained period of time. Kirkland Signature remains a top focus to deliver great value for our members, with KS items typically offering 15% to 20% value compared to the national brand alternative, with equal or better quality. In Q2, we launched approximately 30 new KS items, including crispy wings, blackened salmon, and various apparel items.",
+    "token_count": 282,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_11",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " items typically offering 15% to 20% value compared to the national brand alternative, with equal or better quality. In Q2, we launched approximately 30 new KS items, including crispy wings, blackened salmon, and various apparel items. [Gary Millerchip (executive)]: As Ron mentioned earlier, our goal is to be the first to lower prices where we see opportunities to do so, and a few examples this quarter included KS butter from $13.89 at the end of Q1 to $8.49 at the end of Q2, 12-count KS organic coconut water from $12.79 to $10.99, KS organic seaweed from $10.99 to $9.99, and two-liter KS Italian extra virgin olive oil from $29.99 to $24.99. Within ancillary businesses, pharmacy and food court experienced double-digit comparable sales growth, and optical and hearing had high single-digit growth. Gas comps were negative mid single digits, driven by mid to high single-digit price deflation partially offset by gallon growth. Turning to digital, site traffic in the quarter was up 32%, and app traffic was up 45%. Sales of pharmacy, gold and jewelry, toys, tires, small electrics, special events, and housewares all grew double digits year over year, and our same-day delivery service offered through Instacart, Uber Eats, and DoorDash continued to grow at a faster pace than our overall digital sales. The enhancements we are making to deliver a more personalized digital experience for our members are starting to create measurable impacts.",
+    "token_count": 323,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_12",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " delivery service offered through Instacart, Uber Eats, and DoorDash continued to grow at a faster pace than our overall digital sales. The enhancements we are making to deliver a more personalized digital experience for our members are starting to create measurable impacts. [Gary Millerchip (executive)]: In Q2, our personalized product recommendation carousels drove over $470,000,000 of ecommerce sales, and our newly modernized product display pages are driving incremental sales on our .com site as well as increased traffic to our same-day sites. We have a clear roadmap for future digital enhancements and believe these will allow us to continue to grow digitally enabled sales at a faster pace than overall sales. Finally, a brief update on our February sales results for the four weeks ended this past Sunday, March 1. Net sales for the month came in at $21,690,000,000, an increase of 9.5% from $19,810,000,000 last year. Comparable sales were as follows. The US was up 5.2%, or 6% adjusted for gas deflation and FX. Canada was up 12.8%, or 9.3% adjusted for gas deflation and FX. Other international was up 17.9%, or 10.9% adjusted for gas deflation and FX. This resulted in total company comp sales of plus 7.9%, or plus 7% adjusted for gas deflation and FX. Digitally enabled sales were up 21.8%, or 20.8% adjusted for FX. Total company comparable sales for the month excluding oil and gas sales and the impact of foreign exchange were up 7.8%.",
+    "token_count": 345,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_13",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": "lation and FX. Digitally enabled sales were up 21.8%, or 20.8% adjusted for FX. Total company comparable sales for the month excluding oil and gas sales and the impact of foreign exchange were up 7.8%. [Gary Millerchip (executive)]: As a reminder, Lunar and Chinese New Year occurred on February 17, nineteen days later this year. This shift positively impacted February other international and total company sales by approximately 40.5%, respectively. Our comp traffic, or frequency, for February was up 3% worldwide and 1.5% in the US. Foreign currencies year over year relative to the US dollar positively impacted total and comparable sales as follows: Canada by approximately 5%, other international by approximately 8%, and total company by approximately 1.7%. Gas price deflation negatively impacted total reported comp sales by approximately 85 basis points. The average worldwide selling price per gallon was down 7.5% versus last year. Worldwide, the average transaction was up 4.8%, which includes the impacts from gas deflation and FX. Excluding gas deflation and FX, average transaction was up 3.9%. In terms of regional and merchandising categories, the general highlights were as follows. US regions with the strongest comparable sales were the Midwest, Northwest, and Southeast. Other international, in local currencies, saw the strongest results in China, Taiwan, and Korea. The negative impact of cannibalization was approximately 60 basis points for the total company. Moving to merchandise highlights, the following comparable sales results by category for the month exclude the positive impact of foreign exchange. Food and sundries were positive mid single digits.",
+    "token_count": 345,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_14",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": " negative impact of cannibalization was approximately 60 basis points for the total company. Moving to merchandise highlights, the following comparable sales results by category for the month exclude the positive impact of foreign exchange. Food and sundries were positive mid single digits. [Gary Millerchip (executive)]: Better-performing departments included candy, food, and frozen foods. Fresh foods were positive low double digits. Better-performing departments included meat and bakery. Nonfoods were positive mid single digits. Better-performing departments included jewelry, majors, and small appliances. Ancillary business sales were up mid to high single digits. Pharmacy, food court, and optical were the top performers. Gas was down low to mid single digits, driven by price per gallon changes year over year. In terms of upcoming releases, we will announce our March sales results for the five weeks ending Sunday, April 5, on Wednesday, April 8, after market close. That concludes our prepared remarks, and we will now open the line up for questions. [Operator (operator)]: Thank you. We will now begin the",
+    "token_count": 219,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_15",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "unknown",
+    "text": " weeks ending Sunday, April 5, on Wednesday, April 8, after market close. That concludes our prepared remarks, and we will now open the line up for questions. [Operator (operator)]: Thank you. We will now begin the [Unknown (unknown)]: question-and-answer session. If you have dialed in and would like to ask a question, please press star 1 on your telephone keypad to raise your hand and join the queue. If you are called upon to ask your question and are listening via speakerphone on your device, please pick up your handset and ensure that your phone is not on mute when asking your question. To be able to take as many questions as possible, we ask that you please limit yourself to one question. Again, it is star 1 to join the queue. Our first question comes from the line of Christopher Horvers with JPMorgan. Your line is open.",
+    "token_count": 186,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_16",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " as many questions as possible, we ask that you please limit yourself to one question. Again, it is star 1 to join the queue. Our first question comes from the line of Christopher Horvers with JPMorgan. Your line is open. [Christopher Horvers (analyst)]: Thanks. Good evening, everyone. So a bit of a near-term question here. There has been a lot of noise in January and February on the weather, whether there was a net benefit to January. One of your competitors talked about a headwind into February because of the weather. So could you reconcile how the weather dynamics affected the first two months of the year? And then similarly, gold has been very spiked into January and has pulled back a little bit here in February. So how are you thinking about how that impacted the business in those two months, and how do you think about how that could play out for the rest of the year?",
+    "token_count": 189,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_17",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " been very spiked into January and has pulled back a little bit here in February. So how are you thinking about how that impacted the business in those two months, and how do you think about how that could play out for the rest of the year? [Gary Millerchip (executive)]: Yes. Hi, Chris. Thanks for the questions. Maybe on the first part of the question, the weather, I think our general view is that it certainly created some volatility during the first few months of the year, but we would not really call any out. I do not think that we would say we think there is a major sort of impact when you look at the total sales results that we posted in January. I think the one thing that I probably would mention is that our traffic visits were a little bit lighter in the US in February. The thing that we think may have caused that to look a little bit lighter was because of the weather, we had the Northeast\u2014in particular, we had 55 warehouses that were closed for a full day\u2014and then it took a couple of days for the local communities to get back up to speed. So I do not know that we call out, when you look at the actual total sales, that there was anything there that we would call out. But I do think there might have been some impact on visits when you look at the sort of year-over-year growth there in the February results. But beyond that, I do not think there is anything that we would say that you should look at in our results and say it was a major impact that should be adjusted for. And then I think more broadly, I will maybe just answer it in general terms. You mentioned the question around gold.",
+    "token_count": 347,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_18",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " anything that we would say that you should look at in our results and say it was a major impact that should be adjusted for. And then I think more broadly, I will maybe just answer it in general terms. You mentioned the question around gold. [Gary Millerchip (executive)]: I think as we look at the overall state of the consumer and our members and how they are shopping, I think it really is a generally big-picture continuation of the trends that we have seen over the last few quarters where, for sure, members are very focused on quality and value, and newness and exciting new items are very important. But when you deliver on those things, we are seeing our members are willing to and have the capacity to spend. And I think the fact that our buyers continue to find new items has resulted in our overall sales results each month\u2014when you strip out the noise around calendar shifts and strip out the noise around sort of short-term blips when there are questions around port strikes and tariffs\u2014overall, our results have been very consistent in that 6% to 7%. So I really would not say there is anything. Certainly, changes in different items because as we have adjusted assortment to reflect whether it is tariffs or different member preferences, but overall, very consistent in terms of the results that we have seen. [Operator (operator)]: Our next question comes from the line of Michael Lasser with UBS. Your line is open.",
+    "token_count": 295,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_19",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " whether it is tariffs or different member preferences, but overall, very consistent in terms of the results that we have seen. [Operator (operator)]: Our next question comes from the line of Michael Lasser with UBS. Your line is open. [Michael Lasser (analyst)]: John, you highlighted several innovations that you are currently implementing or testing to improve the member experience as well as increase the efficiency of the business. Did you size the potential savings from things like prepaying your card or line breaking from your associates? And then as part of that, to what degree will you take those savings and reinvest them back in areas like the store wages, store labor, and/or price, and are you starting to see any diminishing returns on the investments that historically Costco has been making and proven to be quite fruitful? Thank you.",
+    "token_count": 170,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_20",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " take those savings and reinvest them back in areas like the store wages, store labor, and/or price, and are you starting to see any diminishing returns on the investments that historically Costco has been making and proven to be quite fruitful? Thank you. [Ron Vachris (executive)]: You are very welcome. The digital enhancements we are making both online and in the warehouse have all been very beneficial for us. In the warehouse, as you used the example of the pharmacy, our pharmacy business is very strong. Traffic has been significantly up, and the adoption of the new digital enhancements has really allowed us to maintain the staffing we have in place and then handle this new growth of volume we are seeing. It is improving the member experience, and it is making the throughput much better, be it the pharmacy app that we have developed or the pay ahead we have in our warehouses. So it is really very accretive to us handling this new volume and being efficient as we do that. So we do see some good tailwinds behind that as that moves forward. As far as investing in the business and seeing the same values in that, no. We feel that we still get the same return from our members as we continue to invest in the business. And the members are responding very nicely to it, both with traffic and with sales that we see as well. So we feel good that we will continue to reinvest. That is what we do, both in employees and in pricing and in the business overall and expansion, as Gary mentioned. I mentioned earlier that we are not only expanding buildings, we are relocating, and we are also upgrading the insides of a lot of our older warehouses too.",
+    "token_count": 345,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_21",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " in employees and in pricing and in the business overall and expansion, as Gary mentioned. I mentioned earlier that we are not only expanding buildings, we are relocating, and we are also upgrading the insides of a lot of our older warehouses too. [Ron Vachris (executive)]: So we continue to put the money back into the company to drive top-line sales and grow our business globally. [Michael Lasser (analyst)]: Thank you very much, and good luck. [Gary Millerchip (executive)]: Thank you. Thanks, Michael. [Operator (operator)]: Our next question comes from the line of Chuck Grom with Gordon Haskett. Your line is open. [Chuck Grom (analyst)]: Hey, Gary. Hey, Ron. Hope you are well. Inventory levels continue to be very well managed. As you look ahead to the spring and summer, are you making any notable changes to the assortment akin to some of the changes you made last fall? And then with rising gas prices in the near term, can you just remind us historically of the crossover traffic that you typically see into the club on like-for-like hours?",
+    "token_count": 239,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_22",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " notable changes to the assortment akin to some of the changes you made last fall? And then with rising gas prices in the near term, can you just remind us historically of the crossover traffic that you typically see into the club on like-for-like hours? [Ron Vachris (executive)]: Sure. As far as mix goes, going into the spring and summer, we feel we are going back to a little more traditional than we have seen last year. The supply chain has balanced out a little bit more. We feel good about the sourcing moves that we have made. So we feel, as far as timing goes, selection, SKU counts, we are back on track again with where we were the year prior. So I feel good about the lineup that we have. We feel good about production and shipments. Until the most recent undertakings, everything has been on time and moving through very well. We have not seen any disruptions from the Middle East in our regular merchandise flow, but we are watching that very cautiously, and we are staying on top of that. So we feel good about the spring and summer, and then as we forecast that into the fall, we feel we are in a good place. As far as gas, I will let Gary answer that.",
+    "token_count": 257,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_23",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " and we are staying on top of that. So we feel good about the spring and summer, and then as we forecast that into the fall, we feel we are in a good place. As far as gas, I will let Gary answer that. [Gary Millerchip (executive)]: Thanks, Ron. Chuck, on gas, generally speaking, we see about half of members that will shop at the gas station will also cross-shop at the warehouse. And obviously, as Ron mentioned, it is early days to know what the impact longer term might be from events in the Middle East at the moment. But generally speaking, if gas prices start to increase, then we tend to see our value proposition resonate better with members, just because obviously we want to be the pricing authority on gas. And so when prices are higher, that will tend to cause members to maybe take the extra mile that it might involve to get to the gas station because of the incremental value they see there. But, obviously, we will have to see what happens with gas prices over the coming months there. [Chuck Grom (analyst)]: Great. Thank you both. Thank you. [Operator (operator)]: Our next question comes from the line of Simeon Gutman with Morgan Stanley. Your line is open.",
+    "token_count": 263,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_24",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " coming months there. [Chuck Grom (analyst)]: Great. Thank you both. Thank you. [Operator (operator)]: Our next question comes from the line of Simeon Gutman with Morgan Stanley. Your line is open. [Simeon Gutman (analyst)]: Hey, guys. I have two unrelated questions. First, the competitive openings are stepping up this year. I imagine there is maybe some membership impact in nearby openings from competitors. Is there anything above and beyond? And then the second part is, if a customer speaks to an LLM, how do you show up, or how do you want to show up, and are you seeing any opportunities to convert members? Thank you.",
+    "token_count": 146,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_25",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " there anything above and beyond? And then the second part is, if a customer speaks to an LLM, how do you show up, or how do you want to show up, and are you seeing any opportunities to convert members? Thank you. [Ron Vachris (executive)]: You are welcome. As far as the new openings coming up, it will not have a negative effect on our membership. We will not see those big swells of new markets that we would see if you go into an existing building. So it balances that out. It really drives our sales with frequency and visits. As we relieve a high-volume warehouse, those tend to build back very quickly. And so we may not see the traditional number of new members, but frequency of members and those types of things start really ramping up in those markets as we see. So we do not see a negative effect, but we do not see the big tailwind we saw with new sign-ups as we would in the new market as well. And for the LLM, I will take a shot at that. The biggest thing we feel with our quality and our value is we want to show up everywhere we can. And we want to make sure that Costco is surfacing with all these partners. We feel very confident with our values and our prices. If we are coming up on all these searches, we are going to be made very well with those. I do not know if you want to add anything to that, Gary.",
+    "token_count": 305,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_26",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " these partners. We feel very confident with our values and our prices. If we are coming up on all these searches, we are going to be made very well with those. I do not know if you want to add anything to that, Gary. [Gary Millerchip (executive)]: Yeah. Well, the only thing, Ron, maybe just to come back to your first answer\u2014I did not know, Simeon, if your question was when competitors are opening warehouses too. And I guess I would say that, really, we do not see any meaningful impact on our membership base or membership growth when we do. We feel we operate today very effectively across the US against very different operators, and we tend to focus on being our own toughest competitor and finding ways of how we can lower prices and continue to deliver more value. And so, generally speaking, there is nothing I would call out that we see as an impact to our membership base when we are competing against different operators in each market. [Operator (operator)]: Our next question comes from the line of John Heinbockel with Guggenheim. Your line is open.",
+    "token_count": 231,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_27",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " that we see as an impact to our membership base when we are competing against different operators in each market. [Operator (operator)]: Our next question comes from the line of John Heinbockel with Guggenheim. Your line is open. [John Heinbockel (analyst)]: Hey, Ron. Two maybe international questions, but can you talk about\u2014so Canada AUVs is now approaching $300,000,000\u2014you know, thoughts, and you are still growing, right? So, thoughts on shopability, capacity, in those clubs. And I know you are opening, reopening business centers. So thoughts on that. And then secondly, I think you are going to open three outside of international, outside of Canada this year. What does the pipeline look like in 2027 and 2028? Because I think you do want to ramp that up, you know, much higher than it is today.",
+    "token_count": 191,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_28",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " going to open three outside of international, outside of Canada this year. What does the pipeline look like in 2027 and 2028? Because I think you do want to ramp that up, you know, much higher than it is today. [Ron Vachris (executive)]: Okay. Yeah. As far as Canada goes, we have 114 buildings now, and we have had some very good success with infilling and opened up a couple of new markets in the recent two years. Our volume per location is quite high in that market. We have done several things. The technology that we have done in the US, we are using in Canada as well. We recently expanded operating hours in all of our Canadian buildings to help offset some of the traffic increases. So we feel that we have a very good path of expansion in Canada over the next five years, and we feel good that we will be able to maintain a good high average volume per location and continue to infill with some great incremental sales there as well. Internationally, yes, they take a little bit longer before we bring those to fruition, as opposed to being in North America. But we feel very good about the future from 2027 on in our international markets as we continue to see performance both in Asia and Europe to be very strong. And so we look forward to some good growth expansions. We feel a good balance as we have had in the past with a good portion of our locations being outside North America and an equal amount being here domestically as well.",
+    "token_count": 312,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_29",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " Europe to be very strong. And so we look forward to some good growth expansions. We feel a good balance as we have had in the past with a good portion of our locations being outside North America and an equal amount being here domestically as well. [Operator (operator)]: Our next question comes from the line of Kate McShane with Goldman Sachs. Your line is open. [Kate McShane (analyst)]: Thanks. Good afternoon. I wondered if I could tack on to the real estate question and just ask about the fact that you noted some new opportunities in real estate are allowing you to enter into markets that you did not think you could enter into previously. How should we think about this longer term and how it will influence maybe the number of units you open in a year domestically?",
+    "token_count": 162,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_30",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " noted some new opportunities in real estate are allowing you to enter into markets that you did not think you could enter into previously. How should we think about this longer term and how it will influence maybe the number of units you open in a year domestically? [Ron Vachris (executive)]: Okay. We are not changing the model, but we are being a little more creative with the use of things like parking decks. I know it has been announced what we are doing in Los Angeles with the residents above our locations. So we are getting a little more creative. If we want to get into some of these inner cities, where you are not going to find 25 acres available for us to go into, how can we infill in some of these very strong markets like Los Angeles, New York, different places, with a unique model for Costco that is going to allow us to continue and expand. We have done a lot of these things in the past. We have proven out the models in Asia, and we have some very unique business models also in Europe as well that have served us very well. So it is not new to the company. It is a little newer to the US. But we feel very good about how we can be efficient. We can maintain the Costco experience in all of these warehouses, while being a little bit more creative than a standard 25-acre site with 800 parks and one-level parking decks as well. That is where we are seeing a lot of the openness to the opportunities to partner with others and get into markets that could have been otherwise tough to get into.",
+    "token_count": 324,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_31",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " a standard 25-acre site with 800 parks and one-level parking decks as well. That is where we are seeing a lot of the openness to the opportunities to partner with others and get into markets that could have been otherwise tough to get into. [Gary Millerchip (executive)]: And, Kate, I think that is allowing us to have more confidence in that plan to achieve that 30-warehouse-a-year goal that we have talked about over the last couple of earnings calls. When we talk about 30 a year, we look at generally a five- to ten-year time horizon for warehouses, and we feel like that 30 sort of target a year is there to be achieved for that sort of time horizon. That is the goal that we are working towards as we look at the plan. Roughly just over half of those, we think, would be in the US, and just under half would be in the rest of the world if you include Mexico, Canada, Asia, Europe, Australia, and New Zealand in that broader rest-of-the-world category. [Operator (operator)]: Our next question comes from the line of Edward Kelly with Wells Fargo.",
+    "token_count": 237,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_32",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " the rest of the world if you include Mexico, Canada, Asia, Europe, Australia, and New Zealand in that broader rest-of-the-world category. [Operator (operator)]: Our next question comes from the line of Edward Kelly with Wells Fargo. [Edward Kelly (analyst)]: Yes. Hi. Good afternoon. Thank you for taking the question. I was hoping that you could expand on core-on-core margins in the quarter and then maybe how we should be thinking about the back half. The compare seems a little bit tougher there, but just thoughts on how we should be thinking about that would be great.",
+    "token_count": 124,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_33",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " hoping that you could expand on core-on-core margins in the quarter and then maybe how we should be thinking about the back half. The compare seems a little bit tougher there, but just thoughts on how we should be thinking about that would be great. [Gary Millerchip (executive)]: Yes. Thanks, Ed. I will take a step back overall on gross margin. We were pleased with the quarter overall in gross margin. As you heard us say, the overall result\u2014if you adjust for gas deflation\u2014was up 11 basis points, but we had a gain from a nonrecurring legal settlement in there for six basis points. So overall, we look at it as being up by five basis points in the quarter, and being able to achieve that growth when we were also lowering prices for members and managing the impact of tariffs, I think the team did a really good job of being able to stay the course in making sure we are delivering more value while also being able to deliver a good financial outcome for our shareholders. On the core-on-core specifically, as you heard us say, we were up 22 basis points. I would not say there is one particular sort of driver of that. It is similar to the themes we shared the last couple of quarters. I think during Q2 in particular, partly we would have had some benefit when you look at\u2014we have shared in prior discussions that when we see prices coming down, as we saw in some of the deflationary items, often that is a time that is helpful to us because we can lead the world down with lower prices for our members, but because we turn the inventory so quickly, we also tend to get some financial benefit there.",
+    "token_count": 345,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_34",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " of the deflationary items, often that is a time that is helpful to us because we can lead the world down with lower prices for our members, but because we turn the inventory so quickly, we also tend to get some financial benefit there. [Gary Millerchip (executive)]: And then we are continuing to work on supply chain efficiencies, and Kirkland Signature penetration continues to improve. So a number of different factors helped with that. At the same time, as you heard us say, there were some offsets in core because we paid higher 2% rewards, we were lapping some higher income in the credit card program, and there is some mix shift as well because our pharmacy business and our ecommerce business are both growing at a faster pace than our core sales. So they kind of dilute some of the impact when you look at the total core margin growth. I share all that context because I think our perspective, when you think about looking forward, is the rate is going to fluctuate and the different elements are going to fluctuate quarter to quarter, and we tend to not get too fixated on one individual element of the margin. Our goal is to run the business holistically for the long term. My comment earlier about some slight improvement in the gross margin rate while lowering prices and continuing to manage the business effectively is how we tend to think about delivering value for, first of all, our members and, in turn, that resulting in value for shareholders. So when you look at the trajectory, I would focus less on one individual metric. Where I would come back to is: look at the quarter overall; we were up about six basis points.",
+    "token_count": 337,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_35",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": ", in turn, that resulting in value for shareholders. So when you look at the trajectory, I would focus less on one individual metric. Where I would come back to is: look at the quarter overall; we were up about six basis points. [Gary Millerchip (executive)]: If you look at the last twelve to twenty-four months, generally, gross margin has been stable and has grown slightly, and there have been puts and takes with core-on-core and the other elements that I mentioned. But our focus is really on running the business for the long term and making sure we are delivering value for members. We do think through some of the efficiencies that we create we are slightly expanding margin, but it is only slightly because, as Ron mentioned, when we see meaningful benefit, we are reinvesting in the member to make sure that we are driving top-line sales. [Operator (operator)]: Our next question comes from the line of Rupesh Parikh with Oppenheimer. Your line is open. [Ron Vachris (executive)]: Yeah. Thanks, Rupesh.",
+    "token_count": 225,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_36",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": "-line sales. [Operator (operator)]: Our next question comes from the line of Rupesh Parikh with Oppenheimer. Your line is open. [Ron Vachris (executive)]: Yeah. Thanks, Rupesh. [Gary Millerchip (executive)]: Yeah. So maybe, again, just taking a step back big picture, we were pleased with the membership results for the quarter. We saw\u2014I think you heard us say in the prepared remarks\u20147.5% growth in membership fee income if you adjust out the fee increase and FX. So underlying, it is really strong member loyalty and member fee income growth during the quarter. The bigger part of that was the 9% growth in upgrades, which I think shows that the impact of the $10 Instacart credit that we are offering each month for online shopping and the extended hours and some of the other benefits that we have added are resonating with our members and increasing the level of upgrades. You mentioned the overall paid membership was a driver of that too\u2014it was up about 4.8% during the quarter. As you said, Rupesh, it is a little bit lower than it has been over the last year or so. The last couple of quarters have been around that 5% mark. I think there are really three things that I would call out there. One is that we have seen over the last year or so less new warehouse openings in genuinely new markets, and generally speaking, when we open in a Japan or a China, there is a dramatic increase and spike in the number of new members.",
+    "token_count": 327,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_37",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": ". One is that we have seen over the last year or so less new warehouse openings in genuinely new markets, and generally speaking, when we open in a Japan or a China, there is a dramatic increase and spike in the number of new members. [Gary Millerchip (executive)]: So they certainly help to inflate the overall membership growth, and we really have not had a meaningful number of those in the last year or so. So that is having an impact on slowing down the rate of growth. Secondly, I would say we are cycling some strong new member sign-ups a year ago, so we are having some impact as we cycle those and still seeing strong member sign-ups, but certainly we are lapping higher growth that we saw this time last year. And then I think I would also say if you look at the long-term growth rate\u2014as I mentioned\u2014there certainly have been times where we have had growth at a higher rate when there have been those large new warehouse openings with inflated new members, and we have had peaks at certain times where we have seen higher member sign-ups. If you look at our long-term growth rate, it really is in more of that 5% growth range in terms of new members. So I think it is maybe resting more closely to where the long-term growth rate has been.",
+    "token_count": 267,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_38",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " sign-ups. If you look at our long-term growth rate, it really is in more of that 5% growth range in terms of new members. So I think it is maybe resting more closely to where the long-term growth rate has been. [Gary Millerchip (executive)]: We think there is still plenty of opportunity to keep growing the membership base, whether it is through adding new benefits as we did some of those this year, whether it is existing warehouses maturing and growing their membership base, as I mentioned earlier, improving the renewal rates\u2014as we are making good progress in those as well\u2014and then in our international markets, while we have a large member base per warehouse, the executive membership base tends to be lower penetrated in those areas as well. So I think there is lots of opportunity for continued growth, but those would be the three points that I would call out as being the main drivers of us at a slightly lower rate year over year than we have been in the quarters prior to the last two. [Operator (operator)]: Our next question comes from the line of David Bellinger with Mizuho. Your line is open.",
+    "token_count": 233,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_39",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " of us at a slightly lower rate year over year than we have been in the quarters prior to the last two. [Operator (operator)]: Our next question comes from the line of David Bellinger with Mizuho. Your line is open. [David Bellinger (analyst)]: Hey, everyone. Thanks for the question. On renewal rates, the US was down about 10 basis points, worldwide flat. So is this the real bottom here? Given the way you calculate renewal rates, do you have a certain timeline or time frame in mind when you see this dataset start to improve and move back up again? And then separately, we have noticed some in-warehouse activity, maybe giving out a free item when you sign your membership up for auto renew. Can you talk about the uptake for that program and how that is helping renewal rate as well? Thank you.",
+    "token_count": 177,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_40",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " then separately, we have noticed some in-warehouse activity, maybe giving out a free item when you sign your membership up for auto renew. Can you talk about the uptake for that program and how that is helping renewal rate as well? Thank you. [Gary Millerchip (executive)]: Sure. As you mentioned, we called out a few quarters ago that we were seeing a slight decline in the overall membership renewal rate, and you characterized it very well, which is as we have started to see a meaningful increase over recent years in the number of digital members signing up, they do generally renew at a slightly lower rate. And so as they have been building as a percentage of the total base, it has been a real positive for us in terms of adding younger new members and helping with total revenue growth and some of the comments I made about the membership growth when responding to Rupesh's question earlier. But when you blend those into the total mix of members, it does bring down slightly the overall renewal rate. When we called that out two or three quarters ago, we said we probably have a few more quarters where we would expect to see a continuation of a slight decline in the renewal rate because there is that sort of math where those numbers are feeding into the overall renewal calculation; it does bring down the average. I think we are pleased to see that the global rate actually was flat during this quarter, and the US rate was only down 10 basis points, as you mentioned.",
+    "token_count": 300,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_41",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " numbers are feeding into the overall renewal calculation; it does bring down the average. I think we are pleased to see that the global rate actually was flat during this quarter, and the US rate was only down 10 basis points, as you mentioned. [Gary Millerchip (executive)]: So I think it shows that we are making some good progress with the impact that we thought would happen through the maturation of those online members coming into the overall number, but also with some of the initiatives that we have been driving around contacting and engaging with those new digital members through digital communications and retention strategies. If we had just played out the impact we would have expected without any of that activity, it would have been a higher decline, just with the math of the number of digital members that were feeding into the overall renewal rate calculation. So we are seeing and showing some impact of the benefit of those programs. The auto renewal is something we have been focused on for some time. We believe there is a real benefit in helping the member from a convenience point of view having auto renew, and, of course, it helps us with membership renewal rates as well. So that is something we have had as a program for a while now, and there are certain times where we will raise the awareness of it in the warehouse for our employees to have a talking point with a promotion of some sort as well. Overall, I think we feel that we are seeing what we expected with the change in the renewal rate. It has slowed down.",
+    "token_count": 306,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_42",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " the awareness of it in the warehouse for our employees to have a talking point with a promotion of some sort as well. Overall, I think we feel that we are seeing what we expected with the change in the renewal rate. It has slowed down. [Gary Millerchip (executive)]: As we called out before, we may see a few more quarters where it is kind of reaching that maturation point, but we are very focused on those retention programs and have been pleased with the way that has adjusted the trajectory, and we will be targeting for that to continue. [Operator (operator)]: Our next question comes from the line of Greg Melich with Evercore. Your line is open. [Greg Melich (analyst)]: Hi. Thanks. I wanted to follow up on inflation. You mentioned how, I believe, it was a little bit less this quarter than the prior quarter. And I am just curious how much less. If we look at that ticket up 3.4 in the US, could we say that inflation was maybe 100 bps of it, down from 150, or maybe just sort of frame it.",
+    "token_count": 233,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_43",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " I am just curious how much less. If we look at that ticket up 3.4 in the US, could we say that inflation was maybe 100 bps of it, down from 150, or maybe just sort of frame it. [Gary Millerchip (executive)]: Sure. Thanks, Greg. On inflation in general, you heard it exactly right that we did see\u2014we have been talking about low to mid single-digit inflation. It was slower in the second quarter, trending towards sort of low single digits, I guess. Now I will caveat that with Q2\u2014obviously, the world has changed a little bit since we gave that update, and so we will have to see how things play out with the situation in the Middle East. But certainly, as we look at what happened during the second quarter for us, fresh and food and sundries really drove the lower inflation overall. Ron mentioned it, but we have seen deflation in produce, eggs, butter, cheese\u2014some of these commodities\u2014and they have a meaningful impact, as you might imagine, on food and sundries in particular. We do still see some areas of the business that are inflationary. Beef remains fairly inflationary, and candy is still seeing, I think, some of the flow-through that we have seen historically and some of the commodity impacts there as well. But net-net, fresh and food and sundries would have been lower in Q2 than they were in Q1. We saw a little bit of increased inflation in nonfood. Again, modest, I would say, and it was not a big impact, as you heard us talk about the LIFO impact.",
+    "token_count": 338,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_44",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " lower in Q2 than they were in Q1. We saw a little bit of increased inflation in nonfood. Again, modest, I would say, and it was not a big impact, as you heard us talk about the LIFO impact. [Gary Millerchip (executive)]: So it is still low single-digit inflation in nonfoods and would be a little bit of the flowing through of tariffs in a couple of areas. And gold, of course, was inflationary during the quarter as well. Overall, tying it to your question about basket, I think it kind of depends on how you define the impact of inflation. We tend to look at it as: are there more items in the basket, which would be the units\u2014and they are certainly growing\u2014and then we would look at inflation as being two components. One would be the price part that I just mentioned, and the other part would be mix changes. So has the item changed in the basket? Has the size of the item changed in the basket? We really do not necessarily pull those apart. But directionally, to your point, the inflation\u2014as in the actual price increases\u2014would only have been a fraction of the total, and the mix changes and the increasing units would have been a meaningful part of the growth as well. [Greg Melich (analyst)]: Got it. Gold bars are helping the mix.",
+    "token_count": 281,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_45",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": "\u2014would only have been a fraction of the total, and the mix changes and the increasing units would have been a meaningful part of the growth as well. [Greg Melich (analyst)]: Got it. Gold bars are helping the mix. [Gary Millerchip (executive)]: It is broader than gold bars, but I think certainly gold bars have been a great example for us actually, where it has certainly been a tailwind to the business. But the amount of interest it drives around the brand and traffic it drives to our websites, and the cross-selling it drives there, it has been\u2014I think it has been a nice surprise. It has been a great way to deliver value for members, but it has actually helped elevate other parts of our business too by raising more awareness of the things we have to offer online, for example. [Greg Melich (analyst)]: That is great. Thanks, and good luck. [Operator (operator)]: Our next question comes from the line of Oliver Chen with TD Cowen. Your line is open.",
+    "token_count": 216,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_46",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " online, for example. [Greg Melich (analyst)]: That is great. Thanks, and good luck. [Operator (operator)]: Our next question comes from the line of Oliver Chen with TD Cowen. Your line is open. [Oliver Chen (analyst)]: Hi, Ron and Gary. On the digital advertising frontier, there is a lot of great opportunity ahead. I would love your thoughts on what the roadmap looks like there, as well as marketplaces. And then as you zoom out on AI, you are having a lot of great success so far. AI is a technology that involves a lot of different partners, but you have had so much internal excellence. What are your thoughts on balancing that development and innovation around AI? And as you look forward, do you have an idea\u2014will it impact pricing, supply chain, merchandising, or membership engagement? More or less, or probably all of the above\u2014but would love your earlier views on where it might be most impactful. Thank you.",
+    "token_count": 208,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_47",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": ", do you have an idea\u2014will it impact pricing, supply chain, merchandising, or membership engagement? More or less, or probably all of the above\u2014but would love your earlier views on where it might be most impactful. Thank you. [Gary Millerchip (executive)]: Thanks, Oliver. I will just try and canter through those relatively quickly. On advertising, I think what we have shared before is that we have a meaningful amount of dollars that we generate from media revenue today, and that is growing double digits. We have over, I think, now a thousand of our suppliers that participate in engaging with us through placement or being able to provide promotional opportunities for them. From a retail media perspective, we think of that as being somewhat of a new opportunity around how we get into more of those marketing dollars that our vendors and suppliers are spending. Our first priority is really to build the capabilities internally around delivering more personalized, relevant communication to our members, and you heard me mention in prepared remarks we are starting to see a few nice examples now where, as we build in more of that relevant communication for our members, we are seeing them really respond in a positive way in driving either visits or items in the basket. So really encouraged by that. I would say we are still in the early innings with retail media because, while we have been doing that, we are definitely testing and doing some programs with our suppliers on things like digital TV and targeted MVM amplifiers, but they are really kind of early learning stages. I think as we continue to build that personalization capability, we think we will see some additional benefit really flowing through in advertising.",
+    "token_count": 336,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_48",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " our suppliers on things like digital TV and targeted MVM amplifiers, but they are really kind of early learning stages. I think as we continue to build that personalization capability, we think we will see some additional benefit really flowing through in advertising. [Gary Millerchip (executive)]: I will caveat, as always, with our expectation of ourselves is that we will reinvest the vast majority of that to really deliver more value for the member and drive more top-line sales, as we do with everything that we do. On the marketplace, I think for us it has really been a case of where there are places that we can find services and value that offer more value to our members. We have seen some really good progress on things like installation services and new values that we can offer around whether it is garden furniture or garden fixtures and windows\u2014some of these areas where we see opportunities to really bring unique value to our member with great partners who deliver great quality and value. So there is certainly focus there. Then I would broaden it to some of the services that we offer. You think about things like Costco Travel and think about some of the additional services that we are offering to members that, again, are unique ways in which we can deliver value, and we have been finding a lot of success in really deepening loyalty with members there and growing those elements. That is probably the biggest part of how we think about the marketplace concept and where the value can resonate with our members. On AI, for us, we look at it through the lens of how we can deliver value for our members and how we support our employees. Our focus with AI in general is where can it make us better at who we are.",
+    "token_count": 346,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_49",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " our members. On AI, for us, we look at it through the lens of how we can deliver value for our members and how we support our employees. Our focus with AI in general is where can it make us better at who we are. [Gary Millerchip (executive)]: We are not really trying to chase things that are not core to Costco. We think that has been key to what allowed us to navigate previous technology and digital evolutions in the marketplace. We are really focused on where are the places that we think AI can make us better for our members, deliver more value for our members, and help our employees be more productive so that we can pay them better and we can deliver more value for our members. That is our overall philosophical approach there. It is still early days, but we are encouraged by the work we have been doing. [Operator (operator)]: Our next question comes from the line of Scott Ciccarelli with Truist Securities. Your line is open.",
+    "token_count": 203,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_50",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " approach there. It is still early days, but we are encouraged by the work we have been doing. [Operator (operator)]: Our next question comes from the line of Scott Ciccarelli with Truist Securities. Your line is open. [Scott Ciccarelli (analyst)]: Hi, guys. I know it has only been about two years or so, but the last time you had this much cash on the balance sheet, you did pay out a special dividend. So is that something we could see in the next few quarters? And, I guess on a related front, just given how quickly cash is now building for you, could we see payouts on a more frequent basis than maybe what we have seen in the past? Thanks.",
+    "token_count": 152,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_51",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " we could see in the next few quarters? And, I guess on a related front, just given how quickly cash is now building for you, could we see payouts on a more frequent basis than maybe what we have seen in the past? Thanks. [Gary Millerchip (executive)]: Thanks, Scott. I would not say our financial strategy has really changed significantly as we think about cash. First, our first priority, of course, is always to invest in the business. As you have seen, we have been investing more capital in the last couple of years to support Ron\u2019s priorities that he shared earlier. We have the strong pipeline of new warehouses, ensuring that we are investing in our existing warehouses to improve the member experience and support the tremendous growth that we have seen in those warehouses. We are investing in depots and expanding the network there, not only to support our warehouses but also support the ecommerce growth that we are seeing. And we are investing in digital, and we think there are plenty of opportunities to continue to invest in, and we feel good about the returns we can generate from those investments. I think you are right\u2014we are seeing strong cash flow buildup. The great thing about our model is it generates significant free cash flow, and even with the investments we are making, we are seeing continued growth in that cash. Our general priorities are subject to board approval. We want to continue to grow the regular dividend because we think that is a core fundamental part of demonstrating our confidence in the future growth of the company. We are continuing to buy back stock to avoid dilution from executive stock grants.",
+    "token_count": 324,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_52",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " to board approval. We want to continue to grow the regular dividend because we think that is a core fundamental part of demonstrating our confidence in the future growth of the company. We are continuing to buy back stock to avoid dilution from executive stock grants. [Gary Millerchip (executive)]: But when we do all those things in the way we have in the past, typically, we still generate excess cash, and we are building a stronger cash balance on our balance sheet today. We do think, with our valuation, the special dividend is probably the most effective way to return excess cash because it keeps flexibility if we want to invest more in capital expenditure in the future as well. What I would say on special dividend is while our cash balance is back to levels that they were pre the last special dividend, I think it is important to remember that to achieve a similar yield to last time when our stock was at $660, the cash would need to be greater. So we will continue to review the question of special dividend with our board, but there are no plans that we could share at this time around a plan for special dividend. [Operator (operator)]: Our next question comes from the line of Kelly Bania with BMO Capital Markets. Your line is open.",
+    "token_count": 256,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_53",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " our board, but there are no plans that we could share at this time around a plan for special dividend. [Operator (operator)]: Our next question comes from the line of Kelly Bania with BMO Capital Markets. Your line is open. [Kelly Bania (analyst)]: Hi. Thanks for taking our questions. I wanted to ask first if you could just talk about the pharmacy category. A lot of moving pieces being called out by some of your competitors there with the maximum fair pricing and just curious how and if that impacts you. It does not look like it, but maybe we just want to confirm how you see that going forward. And then, bigger picture, I wanted to follow up on the media question and the advertising, and I am curious if you would maybe size that more specifically. I think, Gary, you said meaningful amount. But just curious how that looks today or even if not specific on how it is, just maybe relative to where it could be over time. Any color there.",
+    "token_count": 206,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_54",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "executive",
+    "text": " you would maybe size that more specifically. I think, Gary, you said meaningful amount. But just curious how that looks today or even if not specific on how it is, just maybe relative to where it could be over time. Any color there. [Gary Millerchip (executive)]: Sure. Thanks, Kelly. On the pharmacy side of things, we have had tremendous success with our pharmacy business. I think you have heard us say on a couple of the previous earnings calls that the team is really focused on how do we make sure that we are delivering not just the great value that we always promise to our members, but improving the member experience too. We have added some new AI tools to improve our in-stock positions on pharmacy, and we have also made some digital enhancements to make it easier for the member to check out at the pharmacy to speed up the experience there as well. We have seen strong growth in pharmacy, and you may have heard me say in the prepared remarks that the pharmacy business grew at a faster pace than our total sales, which was part of the reason for the disconnect between the core-on-core margin improvement and the core margin overall. I would say we will have a small impact as a result of the change with Medicare and the pricing of the drugs involved there, but nothing that I would call out to think about as a material headwind for us in terms of our top-line sales results as we see it today. On retail media, we do think it is a significant opportunity, Kelly.",
+    "token_count": 306,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_55",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " drugs involved there, but nothing that I would call out to think about as a material headwind for us in terms of our top-line sales results as we see it today. On retail media, we do think it is a significant opportunity, Kelly. [Gary Millerchip (executive)]: But the reason we do not really size it is that it really comes back to my final point: there is tremendous opportunity for us to capture more value, we think, and to help our suppliers actually improve the return on their ad spend. Our focus will be very much on how we use those dollars to deliver more value back to the member and drive top-line sales. So sizing it for us would be more about how much value we can create for the member and drive greater investment in our members in the value that we offer. You would see it more in our top-line growth as we are able to achieve that growth versus it being a major change in our margin profile, I would say. [Operator (operator)]: Our final question comes from the line of Jiang Ma with Bernstein. Your line is open.",
+    "token_count": 222,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_56",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "analyst",
+    "text": " top-line growth as we are able to achieve that growth versus it being a major change in our margin profile, I would say. [Operator (operator)]: Our final question comes from the line of Jiang Ma with Bernstein. Your line is open. [Jiang Ma (analyst)]: Great. Thank you. I wanted to ask about the international expansion side, specifically China where growth seems to have stalled a bit recently, where I am sure you are facing some pretty strong local competition and fans\u2019 competition as well. Curious how you think about your business model fitting in a market which is highly ecommerce-driven and what learnings you can gain there that can be applied to the rest of the business as well. Thank you.",
+    "token_count": 146,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "COST_2026_Q2_turnoverlap_57",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "section": "qa",
+    "speaker_role": "operator",
+    "text": " competition and fans\u2019 competition as well. Curious how you think about your business model fitting in a market which is highly ecommerce-driven and what learnings you can gain there that can be applied to the rest of the business as well. Thank you. [Ron Vachris (executive)]: Thank you. I would not say it was stalled. It is more by design the way we have opened up the first warehouses. It is very customary to what we have done when we have gone into every other country. We get in, we open up some warehouses, we learn about the culture, we learn about doing business in that country, and then we are on a good steady growth pattern from there. We see great opportunities in China as we did before we went into the country. We are very pleased with our business and how we are growing. We feel we can compete with anybody in the country as we do internationally. I see good things coming for us in China, but it will be customary to our normal growth as we have done around the world as we have built out Japan and Korea and Europe the same customary way that Costco grows in these new countries. We are happy with China. It is growing nicely, and there is more to come in the future for sure. [Operator (operator)]: Ladies and gentlemen, this concludes our question-and-answer session as well as today's call. We thank you for your participation, and you may now disconnect.",
+    "token_count": 294,
+    "strategy": "speaker_turn_overlap"
+  }
+]

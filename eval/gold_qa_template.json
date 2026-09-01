@@ -1,0 +1,29 @@
+[
+  {
+    "id": "msft_q4_2025_01",
+    "company": "MSFT",
+    "quarter": "2025_Q4",
+    "question": "What did Microsoft report as its Azure revenue growth rate?",
+    "gold_answer": "REPLACE — copy the exact figure from the transcript once sourced",
+    "gold_chunk_id": "REPLACE — chunk_id containing the source text",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "jpm_q4_2025_01",
+    "company": "JPM",
+    "quarter": "2025_Q4",
+    "question": "Did management commit to a specific timeline for reducing net interest margin pressure?",
+    "gold_answer": "REPLACE — note if management gave a vague/hedged answer rather than a commitment; this is a deliberate evasiveness test case",
+    "gold_chunk_id": "REPLACE",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "cost_cross_quarter_01",
+    "company": "COST",
+    "quarter": "multi",
+    "question": "How did Costco's membership fee revenue change between Q1 and Q2?",
+    "gold_answer": "REPLACE — requires retrieving from two different quarters' transcripts",
+    "gold_chunk_id": "REPLACE — note: for multi-chunk questions, use a comma-separated list here or extend schema to gold_chunk_ids: []",
+    "question_type": "cross_quarter"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_0",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": "[Operator (operator)]: Good morning, ladies and gentlemen. Welcome to JPMorgan Chase's second quarter 2026 earnings call. This call is being recorded. Your line will be muted for the duration of the call. We will now go live to the presentation. Information concerning forward-looking statements and non-GAAP financial measures included in this presentation can be found in JPMorgan Chase's earnings press release and investor presentation posted on the investor relations website. Please stand by. At this time, I would like to turn the call over to JPMorgan Chase's Chairman and CEO, Jamie Dimon, and Chief Financial Officer, Jeremy Barnum. Mr. Barnum, please go ahead.",
+    "token_count": 140,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_1",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " website. Please stand by. At this time, I would like to turn the call over to JPMorgan Chase's Chairman and CEO, Jamie Dimon, and Chief Financial Officer, Jeremy Barnum. Mr. Barnum, please go ahead. [Jeremy Barnum (executive)]: Thanks, Amanda, and good morning, everyone. Including the significant items noted on the page, the firm delivered net income of $16.9 billion, EPS of $6.14, and an ROTCE of 23%. Excluding the significant items, revenue was up 15% year-on-year, predominantly driven by markets revenue, higher asset management fees in AWM and CCB, higher investment banking revenue, and higher deposit and loan balances, partially offset by the impact of lower rates. Expenses of $27.3 billion were up 15% year-on-year, largely driven by volume and revenue-related expense, as well as growth in front office hiring and labor inflation. Credit costs were $2.5 billion, with net charge-offs of $2.4 billion and a net reserve build of $149 million. In terms of the balance sheet, we ended the quarter with a standardized CET1 ratio of 14.1%, down 20 basis points versus the prior quarter, as net income was more than offset by higher RWA and capital distributions. This quarter's standardized RWA increase of approximately $103 billion is largely driven by increases in financing across our markets business, as well as growth in traditional lending. As you saw in our CCAR press release in June, the board intends to increase the quarterly dividend to $1.65 per share, effective in the third quarter. Moving to our businesses.",
+    "token_count": 344,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_2",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " markets business, as well as growth in traditional lending. As you saw in our CCAR press release in June, the board intends to increase the quarterly dividend to $1.65 per share, effective in the third quarter. Moving to our businesses. [Jeremy Barnum (executive)]: CCB reported net income of $5.3 billion. Revenue of $20.3 billion was up 8% year-on-year, predominantly driven by higher card NII, largely on higher revolving balances, as well as higher operating lease income in auto and asset management fees in wealth management. A few points to highlight. Consumers and small businesses continue to show resilience despite elevated gas prices and inflation, with higher tax refunds and a solid labor market contributing to strong spend growth. In banking and wealth management, average deposits were up 3% year-on-year and 2% quarter-on-quarter, driven by strong net new checking account growth of over 500,000 accounts this quarter. Client investment assets were up 21% year-on-year, driven by market performance along with strong flows. In card services, we refreshed the Sapphire Preferred card in June, following the successful refresh of several other products over the last 12 months. The CIB reported net income of $9.7 billion. Revenue of $24.9 billion was up 27% year-on-year, driven by strong performance across the businesses. IB fees were up 30% year-on-year, reflecting double-digit growth across all products, with particularly strong performance in equity underwriting.",
+    "token_count": 310,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_3",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " $24.9 billion was up 27% year-on-year, driven by strong performance across the businesses. IB fees were up 30% year-on-year, reflecting double-digit growth across all products, with particularly strong performance in equity underwriting. [Jeremy Barnum (executive)]: While this quarter's performance was supported by both some large ECM deals and the acceleration of the closure of some M&A transactions, the pipeline remains quite robust, and the current activity levels seem to be encouraging more activity. As a result, while conversion will obviously be dependent on market conditions, we expect activity levels to remain healthy. In markets, fixed income was up 6% year-on-year, with solid performance in credit, currencies in emerging markets, and rates, partially offset by lower revenue and commodities. The equities business delivered an exceptionally strong quarter, with revenue up 86% year-on-year, reflecting the highly dynamic market conditions. We saw strength across products and regions. Flows were strong, and trading was favorable in both derivatives and cash, and Prime benefited from higher client activity and balances. Turning to asset and wealth management, AWM reported net income of $2 billion, with pre-tax margin of 38%. Revenue of $6.9 billion was up 19% year-on-year, driven by growth in management fees on higher average market levels and strong net inflows, as well as investment valuation gains, higher loan balances, and higher brokerage activity. Long-term net inflows were $50 billion, with continued strength across fixed income and equity.",
+    "token_count": 313,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_4",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " growth in management fees on higher average market levels and strong net inflows, as well as investment valuation gains, higher loan balances, and higher brokerage activity. Long-term net inflows were $50 billion, with continued strength across fixed income and equity. [Jeremy Barnum (executive)]: AUM of $5.1 trillion was up 18% year-on-year, and client assets of $7.7 trillion were up 19% year-on-year, driven by higher market levels and continued net inflows. Before turning to the outlook, corporate reported net income of $4.2 billion on revenue of $6 billion, which includes the significant items noted in the presentation. In terms of the full year 2026 outlook, we now expect NII ex-Markets to be about $96.5 billion, and total NII to be approximately $105.5 billion as a function of markets NII increasing to about $9 billion. The new adjusted expense outlook is about $107.5 billion, with the increase primarily due to higher volume and revenue-related expenses driven by the activity levels and associated revenue outperformance. Finally, we now expect card net charge-off rate to be approximately 3.2%, reflecting better-than-expected consumer credit performance. With that, we're now happy to take your questions, so let's open the line for Q&A.",
+    "token_count": 278,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_5",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": ". Finally, we now expect card net charge-off rate to be approximately 3.2%, reflecting better-than-expected consumer credit performance. With that, we're now happy to take your questions, so let's open the line for Q&A. [Operator (operator)]: Thank you. For participants dialed in on the analyst side of today's conference call, if you would like to ask a question, please press star one to be entered into the queue. We kindly request that you ask one question and only one related follow-up. If you would like to ask an additional question, please press star one to be re-entered into the queue. For our first question, we will go to the line of Ken Usdin with Autonomous Research. Your line is open. [Ken Usdin (analyst)]: Thanks. Hi, good morning. Jamie, I was just wondering if you could start by just evaluating on the recent management changes and elevation of Doug and Troy to co-presidents, and just anything we should be thinking about in terms of the ongoing development of the leadership team and anything it may mean in terms of your tenure as a CEO from the board's perspective. Thanks.",
+    "token_count": 240,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_6",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " and elevation of Doug and Troy to co-presidents, and just anything we should be thinking about in terms of the ongoing development of the leadership team and anything it may mean in terms of your tenure as a CEO from the board's perspective. Thanks. [Jamie Dimon (executive)]: It's exactly, I think we try to be totally clear on the press release, which is, look, Marianne is an exceptional individual as a human being, as a leader, and is obviously an executive. The board made a decision to go ahead with making two co-presidents, which will be preparing them to do far more at the company, be prepared. Hasn't changed the timetable or anything, and obviously wish Marianne the best. As a result, she decided, when she knew about the plans, that she'd rather retire than stay here. That's it. No mystery. [Ken Usdin (analyst)]: Okay. Very good. Jeremy, on your follow-up to the strength that you're seeing across investment banking and markets, I know it depends on conversion opportunities and just the environment, but this is clearly far higher level of activity than anyone would have expected. How do you judge the sustainability, and how do you judge just how risk-on are we across the various businesses? Thanks.",
+    "token_count": 265,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_7",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " it depends on conversion opportunities and just the environment, but this is clearly far higher level of activity than anyone would have expected. How do you judge the sustainability, and how do you judge just how risk-on are we across the various businesses? Thanks. [Jeremy Barnum (executive)]: Good question, Ken. I would actually bifurcate that a little bit between investment banking and markets, in the sense that by historical standards, investment banking fees were fine, but they weren't at sort of super peak level. They had some room to come up a little bit. One of the things we looked at is, okay, how much cannibalization of the future pipeline might have happened through the acceleration this quarter? Or to what extent were this quarter's results particularly elevated as a result of some of the large high-profile IPOs and other capital raisings in particular. I think clearly there was some pull forward, and clearly the large deals contributed meaningfully to this quarter of results. At the same time, the pipeline is actually quite robust, and to some degree, it feels a little bit, we're guessing here obviously, but it feels a little bit as if the high profile nature of the activity this quarter and just the generally robust environment is itself begetting more activity. I obviously don't want to get into guiding you, and in any case, we're just guessing. That's maybe just a little bit of context about how we're thinking about the trade-off between the robustness of the pipeline and the fact that there was some pull forward and some kind of exceptional events this quarter. On the market side, I would probably separate between fixed income and equities.",
+    "token_count": 338,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_8",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": " about how we're thinking about the trade-off between the robustness of the pipeline and the fact that there was some pull forward and some kind of exceptional events this quarter. On the market side, I would probably separate between fixed income and equities. [Jeremy Barnum (executive)]: All the normal caveats, like we don't know, anything can happen. Clearly, markets revenues in general have been quite elevated and strong for some time, although, as we pointed out, that also is associated with much more financial resource deployment in support of our clients. I think the particular set of things that happened in equities this quarter, it's a little bit hard to imagine that being repeated. The background environment is quite supportive. We'll see what happens. In the end, we're just trying to serve the clients and manage the risk and get our fair share of the business. Overall, obviously, the environment feels pretty good. I guess you did say something about risk on, and you said how risk on are we. Not to be pedantic, but I think the question, the we matters, right? The market is clearly extremely risk on, and we're kind of takers of that. We're trying to strike the right balance between supporting all our clients and being appropriately cautious in an environment that has some complicated dynamics in it. [Operator (operator)]: Does that conclude your question?",
+    "token_count": 284,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_9",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " and we're kind of takers of that. We're trying to strike the right balance between supporting all our clients and being appropriately cautious in an environment that has some complicated dynamics in it. [Operator (operator)]: Does that conclude your question? [Operator (operator)]: Thank you. Our next question comes from Chris McGratty with KBW. Your line is open. [Chris McGratty (analyst)]: Good morning. Thanks for the question. On deposits, what stuck out was slide four to me, the growth in CCB in the quarter. Interested in kind of the progression towards that 15% retail market share that you've talked about in the past, and really how higher for longer may impact the pace of market share gains over time. Thanks.",
+    "token_count": 156,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_10",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " growth in CCB in the quarter. Interested in kind of the progression towards that 15% retail market share that you've talked about in the past, and really how higher for longer may impact the pace of market share gains over time. Thanks. [Jeremy Barnum (executive)]: Sure. Let me just do near-term deposits for the company quickly. Let me actually start with wholesale. Wholesale deposit growth was quite strong this quarter, actually, and has been for the first half of the year. If you recall, last year was particularly strong. I think this year we were expecting it to be sort of fine, but slightly less strong. So far, the first sort of half of the year has outperformed our expectations. Obviously, a lot of that is the strength of the franchise and winning deals and taking share, but some of it is also the kind of lending environment, particularly the sort of BFI space and a lot of the data center stuff. However you look at it, you have a little bit of the dynamic of loans creating deposits, and that's going to disproportionately show up in wholesale. That's probably a little bit of a tailwind for wholesale. On consumer, we talked about expecting low single-digit growth this year, that expectation is still in effect. It's unchanged, which is good because I think there were some different moving pieces there and they could have played out differently in some sense. If you look at what those pieces were, it was fundamentally the balance between ongoing very robust net new checking account growth and the question of yield-seeking flows and the impact that was having or not having on average balances per account. You saw obviously very strong net new checking accounts this quarter.",
+    "token_count": 345,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_11",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " were, it was fundamentally the balance between ongoing very robust net new checking account growth and the question of yield-seeking flows and the impact that was having or not having on average balances per account. You saw obviously very strong net new checking accounts this quarter. [Jeremy Barnum (executive)]: In light of the fact that the rate environment is a little bit more hawkish, yield-seeking flows are still a factor and probably a little bit of a risk. On balance, the picture is in line with our expectations for this year, which is good. The question is, how does that all feed into the 15%? What I would say about that is, we feel great about the franchise, and we feel great about how everything is going, and there's no change to that sort of hope or aspiration. I would think about that as a kind of natural long-term consequence of executing the strategy that we believe in across all the various components of it. From focus on primary bank relationships, branch expansion, deepening product-value proposition, et cetera. The view is that the 15% will be an outcome of that, and we still feel good about it.",
+    "token_count": 237,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_12",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " the various components of it. From focus on primary bank relationships, branch expansion, deepening product-value proposition, et cetera. The view is that the 15% will be an outcome of that, and we still feel good about it. [Chris McGratty (analyst)]: That's great. For my follow-up bigger picture question on the expenses. Really, the returns that you're getting from the branch build-out, the AI investments, the hire of the bankers. Ultimately, I guess the question is, where are we in the investment cycle? Really, how does it play into the operating leverage outlook over the medium term? Thanks. [Jamie Dimon (executive)]: I would just say it's a complete continuation of what we've been doing for years. You shouldn't really expect any change.",
+    "token_count": 167,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_13",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": " does it play into the operating leverage outlook over the medium term? Thanks. [Jamie Dimon (executive)]: I would just say it's a complete continuation of what we've been doing for years. You shouldn't really expect any change. [Jeremy Barnum (executive)]: That's what I was going to say too. Obviously there are other expense dynamics this quarter, which maybe I'll save for another question. In the end, we're investing, we're always going to invest. It's been working, obviously, the returns so far speak for themselves. I think the thing that we've been saying for a long time is that the power of this franchise is such that we are able to aggressively invest for the future for the sake of generating future returns and to solidify the competitive position of the franchise while still delivering exceptional current returns. I think that would be true if we were delivering 15%, 16%, 17% returns. Obviously, when we're delivering these types of returns, it really is firing on all cylinders. [Operator (operator)]: Thank you. Our next question comes from John McDonald with Truist Securities. Your line is open.",
+    "token_count": 240,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_14",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": "17% returns. Obviously, when we're delivering these types of returns, it really is firing on all cylinders. [Operator (operator)]: Thank you. Our next question comes from John McDonald with Truist Securities. Your line is open. [John McDonald (analyst)]: Thank you. Good morning. Jeremy, I was wondering if you could talk a little bit about the drivers of the upward revision to the NII ex-Markets on perhaps the cadence too in third quarter, fourth quarter, as we think about the exit rate heading into next year.",
+    "token_count": 116,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_15",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " I was wondering if you could talk a little bit about the drivers of the upward revision to the NII ex-Markets on perhaps the cadence too in third quarter, fourth quarter, as we think about the exit rate heading into next year. [Jeremy Barnum (executive)]: Sure, John. Revising up from $95 billion to $96.5 billion for the full year, and you see our first half actual, so you can infer the second half. As Jamie always likes to say, what matters is the run rates and the exit. If you sort of do that math, it does suggest a higher exit run rate, which, in the central case, assuming the yield curve plays out as the forwards currently forecast and the deposit and other drivers are in line with our current expectations, that's what we would expect. Just mechanically, in terms of the drivers of the upward revision, the biggest single factor is deposit balances, I would say, across both wholesale and consumer. Both sort of the overall quantum of it, but also like mix shift inside of that in favor of slightly higher margin overall. Rates are a little bit higher than when we previously guided, both in the short end and in the back end. As you know, we've got sensitivity to both. Probably our actual sensitivity is a little bit more than the EAR suggests right now because of the outperformance of the consumer betas relative to the model, and that difference is probably disproportionately in the front end. When you assemble that together, you have a little bit of the increase as a function of higher rates, but most of it is balances overall.",
+    "token_count": 331,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_16",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " of the consumer betas relative to the model, and that difference is probably disproportionately in the front end. When you assemble that together, you have a little bit of the increase as a function of higher rates, but most of it is balances overall. [John McDonald (analyst)]: Okay. Just to finish up on the NII. The markets NII is guided a bit higher, even though the outlook for rates is also a little bit higher. I guess what are some of the drivers there? Is it balance sheet mix and some other factors?",
+    "token_count": 112,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_17",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " finish up on the NII. The markets NII is guided a bit higher, even though the outlook for rates is also a little bit higher. I guess what are some of the drivers there? Is it balance sheet mix and some other factors? [Jeremy Barnum (executive)]: It's a great question, John. You correctly allude to the fact that we've said previously that the markets NII number is actually liability sensitive, all else equal. Obviously in the context of what we always say, which is that in general, changes in the markets NII, especially when they are driven by rates, are almost always fully offset in the bottom line through NIR. You're right. This quarter, all else equal, based on the higher rates, you would have expected markets NII to be down, and instead the forecast is up. The difference is changes in balance sheet composition, essentially expecting lower amounts of finance, non-interest-bearing assets on the balance sheet in the second half of the year. At this level of rates, one balance sheet unit of that stuff drives the number quite a bit if you think about it, and can overwhelm sort of the rate effect. That's what's going on there. To just indulge myself for 30 seconds, there's also another interesting nuance, which is you will have noted that we actually increased the equity allocation to the CIB this quarter for reasons that I think are pretty obvious in light of the amount of growth of supporting clients that we've done and the way that's playing through our RWA. The consequence of that is to move some equity essentially out of corporate into the CIB, a lot of that is markets.",
+    "token_count": 340,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_18",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": " in light of the amount of growth of supporting clients that we've done and the way that's playing through our RWA. The consequence of that is to move some equity essentially out of corporate into the CIB, a lot of that is markets. [Jeremy Barnum (executive)]: That obviously comes with a little bit of NII, that NII is moving out of NII ex-Markets into markets NII. It's sort of a rare exception to the rule that changes in markets NII are offset in the bottom line. This piece, which to be fair, is quite small, it's probably like $150 million, is a part of the increase that we would not expect to be offset on the bottom line, all else equal. Obviously it's left pocket, right pocket at the level of the company. [John McDonald (analyst)]: Okay, that's helpful. Thank you. [Operator (operator)]: Thank you. Our next question comes from Erika Najarian with UBS. Your line is open.",
+    "token_count": 213,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_19",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " the level of the company. [John McDonald (analyst)]: Okay, that's helpful. Thank you. [Operator (operator)]: Thank you. Our next question comes from Erika Najarian with UBS. Your line is open. [Erika Najarian (analyst)]: Hi. Good morning. I just had one question. I do want to revisit the succession line of questioning because it is so critical for a lot of your current investor base. Jamie, I guess maybe re-asking the question a different way. What characteristics are you and the board looking for in terms of the new leader of JPMorgan? What do you think makes an exceptional CEO in the future as you pass the baton on? Additionally, I think that some of your investors may have read the announcement, particularly Marian's departure as sort of an extension of your tenure. I'm wondering if we should think about your remaining tenure as more fixed or if investors are still thinking about a more rolling type of retirement date and a longer stay as executive chair.",
+    "token_count": 211,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_20",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": ", particularly Marian's departure as sort of an extension of your tenure. I'm wondering if we should think about your remaining tenure as more fixed or if investors are still thinking about a more rolling type of retirement date and a longer stay as executive chair. [Jamie Dimon (executive)]: The question to that is, though the timing's essentially the same, obviously completely up to the board, but it hasn't changed. It's just a natural change that we have to go to about how we go about this. Look, that question is obviously critical, but I've always said you want to be good at management, you want to be good at people, you want to be analytical, you want to be detailed, you want to be a culture carrier, you want to be curious, you want to have heart, you want to have grit, you want to have soul, you want to have work ethic, you want to be able to travel, you want to be able to walk in operating centers and be with CEOs and prime ministers. It's all of that. I could give you a long list of stuff, but it's all of that. At the end of the day, we're blessed with a lot of people who are great culture carriers across a broad spectrum. No one has all those things in a perfect way, and some of those things you learn, and some of those things you get better at. You know it when you see it. We have two exceptional co-presidents, we have other people at the company who are great culture carriers, but that's what you want.",
+    "token_count": 324,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_21",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " things you learn, and some of those things you get better at. You know it when you see it. We have two exceptional co-presidents, we have other people at the company who are great culture carriers, but that's what you want. [Jamie Dimon (executive)]: You want it across the whole company, not weighted to investment banking or trading or just big CEOs, but also weighted to the fact that we've got 300,000 employees around the world. In our branches, we have 50,000 top-notch people. In our operating centers and our call centers, we have 150,000 people. You have to be a flexible mind to deal with this new growing complex world. We have teams of people. As you know, I think it's important, we pointed out that we're blessed to have Jen Piepszak as the Chief Operating Officer, and Mary Erdoes continuing to run Asset & Wealth Management. It's a great team of people, which I am fully confident if I was hit by a truck, which is not my preference, we would be fine. [Erika Najarian (analyst)]: Just wanted to unpack, sorry, I am going to ask a follow-up question. What do you mean by no change in timing?",
+    "token_count": 260,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_22",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " truck, which is not my preference, we would be fine. [Erika Najarian (analyst)]: Just wanted to unpack, sorry, I am going to ask a follow-up question. What do you mean by no change in timing? [Jamie Dimon (executive)]: Exactly what we said last time. Whatever I said last time, the timetable is essentially the same. Several years, you can use a few years, you can use plus or minus, or obviously, it's totally up to the board, not up to me. [Operator (operator)]: Thank you. Our next question comes from James Mitchell with Seaport Global Securities. Your line is open. [James Mitchell (analyst)]: Okay, good morning. Jeremy, maybe a follow-up on the expense question and operating leverage question earlier. Understand completely longer term, no bank can generate perpetual operating leverage. If we look at year-to-date results, it's been a strong revenue environment, but I think operating leverage on an adjusted basis was negative. You alluded to some expense one-offs potentially. No question you're investing heavily and should be, so I get all that. Just when I think about the benefits of AI and technology generally, is there a time over the intermediate term where you think expense growth could slow a little and operating leverage kind of becomes more likely in a period of time over the next few years?",
+    "token_count": 286,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_23",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": ". Just when I think about the benefits of AI and technology generally, is there a time over the intermediate term where you think expense growth could slow a little and operating leverage kind of becomes more likely in a period of time over the next few years? [Jamie Dimon (executive)]: I'm just going to answer that by saying when you have great returns and very good margins, which actually went up this quarter, not down",
+    "token_count": 87,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_24",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " more likely in a period of time over the next few years? [Jamie Dimon (executive)]: I'm just going to answer that by saying when you have great returns and very good margins, which actually went up this quarter, not down [Jamie Dimon (executive)]: The notion that somehow you can forever increase your operating leverage is a crazy notion. We don't have that. I think it's part of the reason why banks failed, if you go back 20 years ago. We're never going to have that point of view. AI will have its gives and takes. We can't project. I do think you might actually see a slowdown in growth, maybe a slowdown in 2027 or 2028. The teams are looking at all of our opportunities, and we pointed out over and over again when we have an opportunity to spend more money in marketing, with deposit ROI, we're going to do it. We're not going to have false gods. We have to pray that we can't do something really smart. I've also pointed out over and continuously that some expenses, if you accounted for them as investments, that they have very good returns, but they're expensive in the short run. AI still remains to be seen because the other thing I think about AI, which is a little bit different than everybody else, is you don't uniquely benefit from AI. The ultimate beneficiary of AI will be our customers.",
+    "token_count": 293,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_25",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " expensive in the short run. AI still remains to be seen because the other thing I think about AI, which is a little bit different than everybody else, is you don't uniquely benefit from AI. The ultimate beneficiary of AI will be our customers. [Jamie Dimon (executive)]: In a competitive capitalist world, we always use AI to do a better job for the customers, and we can't just say, \"Oh, it's going to increase our margins and we're going to keep that.\" If that were true, our margins would be 80% today because of computerization over the last 20 years. [James Mitchell (analyst)]: Yeah. Well, all fair. Appreciate it. Just maybe a quick one on regulation. Is there any update on the thoughts on potential for adjustments to the regulatory proposals? Since I know you and your peers have been particularly vocal around the G-SIB surcharge, and some elements of Basel III. Just curious if there's been any developments there.",
+    "token_count": 206,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_26",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " any update on the thoughts on potential for adjustments to the regulatory proposals? Since I know you and your peers have been particularly vocal around the G-SIB surcharge, and some elements of Basel III. Just curious if there's been any developments there. [Jamie Dimon (executive)]: There are four obvious changes they should make. I think it's unfair when I hear them say, they should do the numbers the right way, and you guys should demand it. Do the numbers the right way. If they think they want to be more conservative, they should add conservatism. They should not do the numbers in a false way to make the number higher. I just think that's intellectual clarity and honesty, and stuff like that. They should get rid of the double count in operating risk capital. They should get rid of the double count in market risk capital. We have $80 billion or more now of market risk capital, and the biggest quarterly loss we ever had was $1.4 billion. Even the CCAR market loss, I think it's like $14 billion or $15 billion. They should adjust the G-SIB the way they're supposed to going back to 2015, and they should change the way they're doing short-term wholesale funding to be fair to everybody. Those are the things they should do. The number should be the number. If they think we should hold more capital, they should ask us to hold 10% more, and I'd be happy to do that. I'm not happy to have these numbers falsely done.",
+    "token_count": 316,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_27",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " should do. The number should be the number. If they think we should hold more capital, they should ask us to hold 10% more, and I'd be happy to do that. I'm not happy to have these numbers falsely done. [Jeremy Barnum (executive)]: Yeah. Just to briefly add on short-term wholesale funding, I think there's an important point there in terms of the competitive dynamics that we were really quite explicit about in our comment letter, which I would encourage everyone to read because it's a nuanced thing, but I think if you go through it makes the point very clearly. What they've wound up doing with this change to the short-term wholesale funding is essentially increase the burden on banks like us and Bank of America that have both markets and banking businesses as well as traditional consumer businesses, disproportionately relative to our former investment bank competitors who have a different business mix. I guess conceivably someone could want that as a policy outcome. I don't understand why you would want that as a policy outcome, because it is disproportionately damaging the ability of banks to serve Main Street. If that's what someone wants, they should say it, and if that's not what they want, then they shouldn't let it happen by accident as a result of a seemingly very technical thing, like removing RWA from the denominator of the short-term wholesale funding contribution to the G-SIB score. I mean, this is a little bit of what Jamie talks about when he's saying like, do the numbers right and just be clear about your policy objectives.",
+    "token_count": 317,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_28",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": "WA from the denominator of the short-term wholesale funding contribution to the G-SIB score. I mean, this is a little bit of what Jamie talks about when he's saying like, do the numbers right and just be clear about your policy objectives. [James Mitchell (analyst)]: No, absolutely. I appreciate the thoughts. [Operator (operator)]: Thank you. Our next question comes from Matt O'Connor with Deutsche Bank. Your line is open. [Matt O'Connor (analyst)]: Good morning. It seems like everything is firing on most or all cylinders, trading, investment banking, lending, credit. Is this as good as it gets, or, and I know you've kind of flagged some of the risks out there, but is there also an argument to be made that we're earlier cycle given AI and what seems likely to be a big increase in global defense spending, global supply chains management? As we put all that together, what are your thoughts? [Jamie Dimon (executive)]: It's getting close to as good as it gets. We just don't know how long it's going to last.",
+    "token_count": 231,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_29",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " global supply chains management? As we put all that together, what are your thoughts? [Jamie Dimon (executive)]: It's getting close to as good as it gets. We just don't know how long it's going to last. [Matt O'Connor (analyst)]: Okay. The rate expectations continue to move all over the place out there, and you show that you're kind of well-positioned for higher rates, you make more money. Is there a tipping point where the deposit behavior changes, both from a volume perspective, and then betas, which you alluded to earlier, have been better than expected so far, if we go up a certain amount, do you think there could be a meaningful change in that?",
+    "token_count": 151,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_30",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " deposit behavior changes, both from a volume perspective, and then betas, which you alluded to earlier, have been better than expected so far, if we go up a certain amount, do you think there could be a meaningful change in that? [Jeremy Barnum (executive)]: Yeah, that's a good question actually, Matt. I think the short answer is we don't really know. If you'd asked me that question a couple of years ago, I would have said that you're essentially asking a question about the convexity of the rate paid dynamic, especially for consumer deposits, the negative convexity to be specific. If you'd asked me that at the beginning of this rate cycle, I would have said that we would be experiencing that effect right now, and we're not. Just from a common sense perspective, you have to believe that at some point that kicks in. When we do our stress testing and when we think about not just a slightly more elevated inflation environment and a slightly more aggressive response from the Fed, but something that's meaningfully different, that's a true stress test with an actual change in regime, one of the things that we look at in stress is like, okay, at what point do you have that kind of acceleration and rate paid as a result of that type of environment? That's one of the reasons why it's important not to be na\u00efve about higher rates. Because if you simply take our current EAR, even recognizing that locally the empirical EAR is probably higher than our reported EAR, and you ignore the convexity dynamics, you could convince yourself that a 7% rate environment is great.",
+    "token_count": 333,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_31",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " about higher rates. Because if you simply take our current EAR, even recognizing that locally the empirical EAR is probably higher than our reported EAR, and you ignore the convexity dynamics, you could convince yourself that a 7% rate environment is great. [Jeremy Barnum (executive)]: Obviously that wouldn't be true if you had to do a massive repurchase of the deposit franchise in order to protect it, essentially. [Jamie Dimon (executive)]: We do assume some of that. [Jeremy Barnum (executive)]: It's something that we think about. It's in the models. It's very much part of the discipline. The question is when, and obviously there's the larger question of the competitive dynamics and the full value proposition of the deposit franchise especially. [Matt O'Connor (analyst)]: Okay, that's helpful. Thank you. [Operator (operator)]: Thank you. Our next question comes from Mike Mayo with Wells Fargo. Your line is open. [Mike Mayo (analyst)]: Hi. In response to the earlier question, you were asked about operating negative as negative, and you gave the reasons for that. Is operating negative the way you look at things? When you grow revenues 15% quarter year-over-year, percentage wise it's negative, but dollar wise, I think it's positive when I look at slide two. I don't know why-",
+    "token_count": 288,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_32",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " Is operating negative the way you look at things? When you grow revenues 15% quarter year-over-year, percentage wise it's negative, but dollar wise, I think it's positive when I look at slide two. I don't know why- [Jamie Dimon (executive)]: It is positive I'm not going to create the narrative for you, even if you take out those numbers, if you- Yeah. No, it definitely was positive. [Mike Mayo (analyst)]: Let me- Can I just point out another thing? It was positive, but when revenues go up 10%, if your margin overall is 25%, when revenues go up 10%, the marginal return on that, since you're not adding all the overhead, is going to be a lot more than 25%. [Jamie Dimon (executive)]: People kind of forget that. [Jamie Dimon (executive)]: Obviously, a rapid increase in revenue drives a big increase in operating leverage.",
+    "token_count": 204,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_33",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " is going to be a lot more than 25%. [Jamie Dimon (executive)]: People kind of forget that. [Jamie Dimon (executive)]: Obviously, a rapid increase in revenue drives a big increase in operating leverage. [Jeremy Barnum (executive)]: Yeah. I agree with what Jamie just said. Maybe just since we've had a couple of questions about this and obviously we did revise up this year's expense guidance by $2.5 billion, which is not a trivial number. Maybe I can piece all this together to add a little bit of clarity here. First of all, if you remember the guidance that we gave in fourth quarter last year for the full year for the company, and if you made some kind of reasonable assumptions about what type of markets environment and NII ex-Markets for the rest of the company at the time, and you build out your models or whatever. I don't remember exactly what you had, Mike, but I'm sure that the consensus was for meaningful negative operating leverage in this year's numbers, however defined. That's why at company update, I gave the long speech about sort of what Jamie always says about why operating leverage in the long term for the cycle is not a thing. Now for a company like us anyway producing the types of returns that we're producing. The root cause of that was essentially that the, as Jamie just said, there's a fixed expense base and there's a variable expense base. The variable expense base is disproportionately associated with kind of capital markets complex, broadly defined.",
+    "token_count": 319,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_34",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " we're producing. The root cause of that was essentially that the, as Jamie just said, there's a fixed expense base and there's a variable expense base. The variable expense base is disproportionately associated with kind of capital markets complex, broadly defined. [Jeremy Barnum (executive)]: We were in a moment where coming out of the back of the rate hiking cycle and relatively modest deposit growth, et cetera, the NII was still working its way out of the headwinds. In the meantime, we had inflation and investment and the usual stuff driving the expense base. That sort of was the operating leverage picture for the year. To Jamie's point, since then, in the first half of this year, the capital markets complex has outperformed our then expectations by $6.5 billion. We have booked in the first half of the year, $1.5 billion of additional expenses associated with that. That says a lot about that kind of marginal operating leverage point. Of the $2.5 billion that we increased guidance, $1.5 billion is essentially already booked in a direct sort of happy consequence of the exceptionally strong performance. We've implicitly added $1 billion for the second half of the year, and there are some nuances. I wouldn't draw too many conclusions from that in terms of our expectations about the revenue environment because there are some other factors and there's some timing or whatever. At a high level, that gives you the picture of the second half of the year will be what it'll be.",
+    "token_count": 312,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_35",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " conclusions from that in terms of our expectations about the revenue environment because there are some other factors and there's some timing or whatever. At a high level, that gives you the picture of the second half of the year will be what it'll be. [Jeremy Barnum (executive)]: I think when you look at returns, overhead ratio, any metric that your updated models show for this year, it's obviously exceptional performance principally through the lens of returns, which is what actually matters. [Jamie Dimon (executive)]: There's a little bit of that in Asset & Wealth Management, a little bit of that in credit card spend, a little bit of that other parts of the business too. [Jeremy Barnum (executive)]: That's why I say a capital markets complex is really the whole company as well. [Mike Mayo (analyst)]: Your marginal margin based on the number you just gave is 77% on that. Why is that as good as it gets? Are you referring to the revenue environment may be as good as it gets, Jamie? Or are you just being conservative or what?",
+    "token_count": 229,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_36",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " margin based on the number you just gave is 77% on that. Why is that as good as it gets? Are you referring to the revenue environment may be as good as it gets, Jamie? Or are you just being conservative or what? [Jamie Dimon (executive)]: No, I just think we're in a very healthy, active, exuberant market with very high prices and very high volumes, and we benefit from that. We just don't know how long it will continue. Could it get a lot better than this? It can get better, but how much better? I don't know. [Mike Mayo (analyst)]: The second question does relate to the management changes and Troy taking over the consumer bank. We don't know Troy as well as we did Marianne. You have a lot more information internally. To oversimplify and exaggerate, we have an FX trader now selling mortgage, credit cards, and deposits. I'm being simplistic for a reason, but what gives you confidence that Troy is the right person to run the consumer business when he doesn't have that experience in the past?",
+    "token_count": 230,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_37",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " we have an FX trader now selling mortgage, credit cards, and deposits. I'm being simplistic for a reason, but what gives you confidence that Troy is the right person to run the consumer business when he doesn't have that experience in the past? [Jamie Dimon (executive)]: Yeah. Mike, it's a great question. First of all, like I mentioned, how you evaluate people is their analytics, it's their brain power, it's their EQ, it's their heart, their soul, their culture carrier. Can they walk into operating? He's exhibited that in markets, in investment banking. Remember, even the IB is an extensive operations function and back office function, technology function where he's exhibited great expertise. We're completely comfortable with that. I do think it's very important that people have experience across the company. When I've seen investment banks, big banks taken over by someone only from the investment bank who only cares about the investment bank Believe me, the rest of the franchise can suffer. You need respect for the rest of the franchise. I think it's great for him. It's great for the company. He's already excited. He's always been to branches and out and about, and he'll take it hopefully onward and upward.",
+    "token_count": 258,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_38",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": " need respect for the rest of the franchise. I think it's great for him. It's great for the company. He's already excited. He's always been to branches and out and about, and he'll take it hopefully onward and upward. [Jeremy Barnum (executive)]: Mike, just a minor correction. Troy, with no offense intended to my old good friends who are foreign exchange spot traders, but Troy was actually an options trader, which is also where I started, so I think he would want me to correct the record on that. [Mike Mayo (analyst)]: All right. Thank you. [Operator (operator)]: Thank you. Our next question comes from Saul Martinez with HSBC. Your line is open.",
+    "token_count": 152,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_39",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " he would want me to correct the record on that. [Mike Mayo (analyst)]: All right. Thank you. [Operator (operator)]: Thank you. Our next question comes from Saul Martinez with HSBC. Your line is open. [Saul Martinez (analyst)]: Hi. Good morning. Thanks for taking my question. I have a broader question on AI, and it is: is there an argument that we're vastly underestimating the potential benefits to efficiency and the impacts on how companies can run their businesses? I know Block is a really different animal than you are on a lot of levels, but they argued when they cut 40% of their workforce that given the advancement in AI tools, if they look at their organizational structure with a blank sheet of paper, they could be much leaner and not sacrifice on product velocity and commercial outcomes. I guess I'm asking if you think there could be a parallel with banks where you can operate with a different structure, be much more agile, be more efficient over time. I know it's a sensitive topic. I'm curious how you think about these questions and how you're positioning yourself for this world.",
+    "token_count": 237,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_40",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " parallel with banks where you can operate with a different structure, be much more agile, be more efficient over time. I know it's a sensitive topic. I'm curious how you think about these questions and how you're positioning yourself for this world. [Jamie Dimon (executive)]: It's not a sensitive topic at all. We are going to use AI to do a better job for our clients. That's our job. We fully expect it'll have huge efficiency in certain parts of the company. We analyze it all the time. I think we've mentioned in the past, we spend quite a bit of money on it. We have a lot of MVPs that we know we have. The whole company's working this at this point. I think there's almost 1,000 use cases today, though we'd say that the really important ones are 50 across risk, fraud, marketing, hedging, prospecting, note-taking, idea generation, document reading. It's kind of just starting. We do expect that. I think you have to put in the back of your mind that there are areas where we may just accelerate what we do that we'd want to get done anyway. Think of certain applications and customer-facing things and stuff like that. We are preparing to make sure we can retrain our people. We have had discrete areas where we did reduce jobs by 30% or 40%, and most of those people offered jobs elsewhere. We do expect that. I also think that over time, remember, this will be offered to smaller competitors too, through Fiserv and FIS and other fintech companies.",
+    "token_count": 333,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_41",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": "% or 40%, and most of those people offered jobs elsewhere. We do expect that. I also think that over time, remember, this will be offered to smaller competitors too, through Fiserv and FIS and other fintech companies. [Jamie Dimon (executive)]: Over time, we've been doing this nonstop for 25 years with just large computers and mainframes and APIs and various tools and tricks we use. We've always been trying to create more efficient stuff like this. This will be faster. This will be dramatic. The whole company's involved in it. When we have our offsite in July, you can imagine this is a big topic everywhere from front office to mid office to back office to marketing to risk to you name the subject, and more to come. We're kind of in the midst of this mini revolution, and we'll report to you. I do also want to point out, maybe you could be ahead of other people, kind of, but what always happens is the benefit accrues to the customer, not to JPMorgan in this case. Because other people are doing the same thing and presumably it leads to lower costs and lower error rates and a bunch of things. You can't just say, \"Well, your ROE is going to go to 50% and stay there.\" If we had a 50% ROE and growing at 10% a year, we'd probably have, in 50 or 60 years, you'd probably be 100% of the GDP of the United States of America.",
+    "token_count": 321,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_42",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " there.\" If we had a 50% ROE and growing at 10% a year, we'd probably have, in 50 or 60 years, you'd probably be 100% of the GDP of the United States of America. [Saul Martinez (analyst)]: Yeah. Okay. Thank you for that. To follow up on equities, I think, Jeremy, you said, and if I recall correctly, that the particular set of things that happened this quarter are difficult to see repeated. Can you just maybe elaborate on what was most exceptional this quarter? I think some of your peers have talked about Asia, prime brokerage there, I think you mentioned derivatives and cash being strong. Are there any areas or products or geographies that were particularly noteworthy in terms of the strength this quarter that may be difficult to sustain going forward?",
+    "token_count": 171,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_43",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " your peers have talked about Asia, prime brokerage there, I think you mentioned derivatives and cash being strong. Are there any areas or products or geographies that were particularly noteworthy in terms of the strength this quarter that may be difficult to sustain going forward? [Jeremy Barnum (executive)]: Yeah. There's really not a lot behind my comment. It's essentially what you would get from asking any of the commercial AI models this question, and the 2 stages old version of the model. In other words, it's all the obvious stuff that's been heavily reported. We had some major IPOs. We had some major index rebalancing. We had some very complicated dynamics in the Korean equity market. There's been a lot of activity in Asia. The overall environment has been dynamic and interesting across a whole variety of dimensions. The clients have been extremely active. It's all the headlines basically that have driven the market. Of course, that could obviously repeat, I just think statistically, it seems improbable that particular combination of effects would repeat itself. It obviously could. [Jamie Dimon (executive)]: You guys, those who pay attention, you can see most of this on a daily basis through volumes of the New York Stock Exchange, the CME, volumes through hedge funds. It's not a secret. Margin loans. You can see a lot of this taking place during the course of a quarter.",
+    "token_count": 287,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_44",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " most of this on a daily basis through volumes of the New York Stock Exchange, the CME, volumes through hedge funds. It's not a secret. Margin loans. You can see a lot of this taking place during the course of a quarter. [Operator (operator)]: Thank you. Our next question comes from Ebrahim Poonawala with Bank of America. Your line is open. [Ebrahim Poonawala (analyst)]: Hey, good morning. I guess maybe a lot of discussion on the strong Wall Street backdrop. Maybe Jeremy, just talk about the Main Street part of the U.S. economy. There is a sense that there's a fragility when you look at housing, real estate, rates potentially could go higher. Give us a sense around what you're seeing on the consumer side, the ability to sort of pull forward and resiliency if rates go up. Are you seeing any broadening in CapEx beyond AI, or is it very AI-centric in terms of what you're seeing on even commercial lending activity? Thanks.",
+    "token_count": 215,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_45",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": ", the ability to sort of pull forward and resiliency if rates go up. Are you seeing any broadening in CapEx beyond AI, or is it very AI-centric in terms of what you're seeing on even commercial lending activity? Thanks. [Jeremy Barnum (executive)]: Okay. Let me do these in reverse order, actually, because I'll just address your AI CapEx question quickly. We do see some decent kind of CapEx and associated loan growth across the franchise, and at least on the surface, some of that does not appear to be AI related. However, I would be a little reluctant to draw that conclusion too strongly just because the AI theme has started to proliferate in so many different parts of the economy, right? It's like the comments about data centers wind up creating a lot of demand for plumbers and electricians, right? You wind up seeing it in sort of slightly non-obvious places, and any given bit of loan growth or CapEx that you see that doesn't superficially look like it's AI related might still be, but on the other hand, it might not.",
+    "token_count": 229,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_46",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " up seeing it in sort of slightly non-obvious places, and any given bit of loan growth or CapEx that you see that doesn't superficially look like it's AI related might still be, but on the other hand, it might not. [Jamie Dimon (executive)]: To give you the big numbers, I think CapEx is about $4 trillion a year, AI went from $400 billion last year to $700 billion this year. People project, which so do our people, it will be like a little over a trillion next year and maybe a little reduction in the non-AI CapEx. That's hard to figure out because some of the same people are doing the same.",
+    "token_count": 143,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_47",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " People project, which so do our people, it will be like a little over a trillion next year and maybe a little reduction in the non-AI CapEx. That's hard to figure out because some of the same people are doing the same. [Jeremy Barnum (executive)]: Yeah. I was talking to our economist the other day about the CapEx impact of CHIPS Act and some of that's kind of rolled off and it's getting replaced by more direct AI stuff. It's a little bit hard to untangle the whole thing. Going to the consumer for a second. A few things I guess I've kind of already covered. Number 1, spend is kind of fine, robust and across income segments. Seems like a bit of a tailwind there from tax refunds. Delinquencies are a little lower than we expected. Again, that's a better performance you see pretty much across the board by kind of FICO score. There's some of that economic heterogeneity data came out from the Fed recently, which also I think doesn't give a lot of support to the K-shape narrative essentially. Again, we think about this, we worry about this, we look at it, from our perspective, through all the various dimensions, there's not like that much there in terms to support the K-shape narrative. To your point about fragility and rates and housing and stuff like that, it is of course, we are in a slightly higher than normal inflationary environment. I think Marianne had made some comments at some point about a cohort of consumers who are experiencing negative real wage growth and that potentially creating some distress for those folks.",
+    "token_count": 337,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_48",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " it is of course, we are in a slightly higher than normal inflationary environment. I think Marianne had made some comments at some point about a cohort of consumers who are experiencing negative real wage growth and that potentially creating some distress for those folks. [Jeremy Barnum (executive)]: Some of that statistically is kind of always going to be true in any moment in time in any cohort, but that's probably a watch area. I think generally, obviously it's been a long expansion that's gone on for a long time. I think the economy is surprised on the upside. Consumer strength is surprised on the upside. That inevitably makes everyone worry about fragility and about the thing that could change it. As I always say, when it comes to consumer credit performance, it's just about the labor market. You're not going to hear anything from me that's new or differentiated about the labor market. We all see the same numbers and it's been surprisingly resilient. For now, that's the narrative.",
+    "token_count": 204,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_49",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " performance, it's just about the labor market. You're not going to hear anything from me that's new or differentiated about the labor market. We all see the same numbers and it's been surprisingly resilient. For now, that's the narrative. [Ebrahim Poonawala (analyst)]: Got it. I guess just a follow-up, on the capital front, you have excess capital, strong ROEs. I guess the question would be why buy back stock here at three times tangible book when things are so good, bad things could happen? Why not just have even more excess capital for a rainy day if things go south? Just talk to us in terms of how you're thinking about buybacks at these levels. I know Jamie's talked about potential M&A at some point, maybe asset management, fintechs. Yeah, would love to revisit that. Thanks. [Jeremy Barnum (executive)]: Yeah. Before I answer that, I want to tell you I always enjoy reading your weekend notes. They're insightful and sometimes quite funny. Thank you for that.",
+    "token_count": 220,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_50",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " would love to revisit that. Thanks. [Jeremy Barnum (executive)]: Yeah. Before I answer that, I want to tell you I always enjoy reading your weekend notes. They're insightful and sometimes quite funny. Thank you for that. [Jeremy Barnum (executive)]: Look, you're absolutely correct. I mean, we've always said we want to buy back less stock as the price goes up and more stock as the price goes down. We had a lot of excess capital, we were struggling with that if you're talking about two years ago. We still think the number use just approximately $40 billion. I think we now think we actually deployed it over time. The world's gotten bigger. It's got more complex. I just got back from a tour of Europe. Our security resiliency initiative, the hyperscalers, the needs are just big. It's not just AI. You're talking about global infrastructure, the remilitarization of the world, the restructuring of trade is taking place, the enormous need of governments. You have global deficits are almost 4.5% or 5%, which is a very big number competing for the same capital. We do think it'll deploy and that has consequences. We're not going to tell the market what we're going to do, but we agree with you generally. If we think we can deploy, it's very different than buying back stock. I've also never thought that I actually want to get rid of that number, money returned to shareholders. I just don't even like seeing it because buying back stock is not returning money to shareholders.",
+    "token_count": 332,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_51",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": ", it's very different than buying back stock. I've also never thought that I actually want to get rid of that number, money returned to shareholders. I just don't even like seeing it because buying back stock is not returning money to shareholders. [Jamie Dimon (executive)]: You're making an investment decision. You're not making a return money to shareholders decisions. I actually do want to borrow all the reports. You can see changes taking place. We're just not going to tell you what they are. I made a mistake last time mentioning $20 billion. We could obviously do far more than that or nothing at all. What I was trying to point out is we have huge opportunities for organic growth in every single business we're in. Organic growth is hard. It's technology, it's people, it's systems, it's branches, it's bankers, it's hiring, it's training, it's recruiting. I was surprised to find out in parts of Europe that while we've doubled our share in certain areas, they think that we could do a lot more there. Country by country, including countries that we say aren't doing particularly well. I think that's true here. We have our branch in the U.S. We've got a credit card business. We've got the app arsenal, the Apple business at one point, which we have pretty high hopes for if we come up with better products and better services. Yeah. The goal is to deploy our capital at a 17% return. That is the goal. Which we think we can do over time. We should always be looking at inorganic.",
+    "token_count": 332,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_52",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " if we come up with better products and better services. Yeah. The goal is to deploy our capital at a 17% return. That is the goal. Which we think we can do over time. We should always be looking at inorganic. [Jamie Dimon (executive)]: What we don't want to do is look at inorganic as a sign of weakness over organic, which I think companies do sometimes. They bullshit about M&A when they should be focusing on why they're not doing particularly well in an area or something like that. We have a lot of competition, by the way, and we've pointed out before. Very good competition. Not just Goldman Sachs, who's doing a great job, if you didn't read their numbers this morning, because I did, you've got Stripe and PayPal and Cash App and Block and Chime and SoFi and Revolut, and they're good. We have to make certain investments to keep up with them, or to hopefully do a better job than some of them. We're doing all of that. You should always be looking at things that could be good for your company inorganically. We've done a bunch of deals this year. As you know, most were good. A couple weren't particularly good. We're going to be looking, and we're open-minded. It wasn't any particular thing or any particular place. It might be adjacencies, it might be data-related, it might be a whole bunch of areas. We have a bunch of skunk works going on. We hope Chase UK, that we continue to build that in a way that it becomes a great European digital bank over time.",
+    "token_count": 342,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_53",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " might be data-related, it might be a whole bunch of areas. We have a bunch of skunk works going on. We hope Chase UK, that we continue to build that in a way that it becomes a great European digital bank over time. [Jamie Dimon (executive)]: It's going to take a lot of time and effort to do that. You raise a good point. [Ebrahim Poonawala (analyst)]: Well, thank you. I'm glad to hear you're reading. My parents will be proud. Thanks, Jamie. [Jamie Dimon (executive)]: They hired him, of course. [Operator (operator)]: Thank you. Our next question comes from Glenn Schorr with Evercore. Your line is open. [Glenn Schorr (analyst)]: Hello. Thank you. Just two quick follow-ups. One, in the last couple of times you talked publicly, we had a couple of comments on the smart cash tool that you're working on. I know you said it's nascent and early, sometimes technology moves fast. Curious status of the tool, when you might roll it out, and to who, and maybe a little more on your comments on you're gonna have to pay more for money over time. Just curious.",
+    "token_count": 265,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_54",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " and early, sometimes technology moves fast. Curious status of the tool, when you might roll it out, and to who, and maybe a little more on your comments on you're gonna have to pay more for money over time. Just curious. [Jamie Dimon (executive)]: Yeah. It kind of relates to the thing that Jeremy was talking about before, about the velocity of money and how it's going to move in a new world. We are kind of prepared for that. This is still a test case. Banks, people are in a different position, and if you actually look at accounts, these don't relate to every account. They relate to a narrow segment of accounts and where you're competing for their investment business and their deposit business. What you're going to see is certain tests coming out, and then you'll find out about what we can do, what we can't do, and we're going to learn a lot by doing some of that. We think it could be good for customers and good for us. We're not just finding ways to waste money. [Glenn Schorr (analyst)]: Okay. Still a this year thing, I take it? [Jamie Dimon (executive)]: Yes. You'll see something this year.",
+    "token_count": 261,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_55",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " We're not just finding ways to waste money. [Glenn Schorr (analyst)]: Okay. Still a this year thing, I take it? [Jamie Dimon (executive)]: Yes. You'll see something this year. [Glenn Schorr (analyst)]: Very cool. One other follow-up on, you just touched briefly on it. I'm just curious of how you'd state your European consumer banking aspirations. You mentioned opportunities. You do plenty of business there. You mentioned opportunities each country by country. Maybe you could just sum it up in aggregate of what are you trying to be as a consumer bank across the major markets in Europe?",
+    "token_count": 137,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_56",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " consumer banking aspirations. You mentioned opportunities. You do plenty of business there. You mentioned opportunities each country by country. Maybe you could just sum it up in aggregate of what are you trying to be as a consumer bank across the major markets in Europe? [Jamie Dimon (executive)]: Yeah. When we were talking about just bricks and mortar, we weren't going to try to compete because we couldn't have with local banks, their brands, their capabilities. Unlike the U.S., over there, we'd have to add all the overhead and different languages and different regulatory regimes, et cetera. We have no real reason to when digital may have changed that. We started Chase U.K., I forgot, like 4 or 5 years ago. It was a complete startup, and we made a little bit of fits and starts, but we have, I think almost 3 million or 2.5 million customers in the U.K. We've opened up in Berlin. We've actually done much better in Germany than we thought we were going to do, though it's not quite profitable yet. What you got to look at there is you have a platform. The platform costs money as you can distribute across more and more clients and more and more countries. You can get to the point where you break even and then hopefully profitable. We've added the investment products in the U.K. You can assume we're going to try to add them elsewhere, and probably credit card. Hopefully, the dream would be that it'd be a pan-European successful digital bank building off of JPMorgan Chase's strengths. We are a private bank. We do have an upscale, a huge business here.",
+    "token_count": 344,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_57",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": " elsewhere, and probably credit card. Hopefully, the dream would be that it'd be a pan-European successful digital bank building off of JPMorgan Chase's strengths. We are a private bank. We do have an upscale, a huge business here. [Jamie Dimon (executive)]: We've got a lot of clients that go across border. We've got a lot of training capability and underwriting capability and research capability. It's still adjusting over time. We've always called this like, it's not a brand new thing, but it's developing over time. I have high hopes for it. The management team is doing great. We tell them, \"Constantly come in and tell us what you want to do, what you want to do differently, and what we've learned.\" We're kind of patient, kind of. [Glenn Schorr (analyst)]: Us too. All right, thanks, Jamie. [Operator (operator)]: Thank you. Our next question comes from Gerard Cassidy with RBC. Your line is open.",
+    "token_count": 215,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_58",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " patient, kind of. [Glenn Schorr (analyst)]: Us too. All right, thanks, Jamie. [Operator (operator)]: Thank you. Our next question comes from Gerard Cassidy with RBC. Your line is open. [Gerard Cassidy (analyst)]: Thank you. Jamie and Jeremy, you guys have talked about you're seeing some excesses in underwriting and credit late last year, I think it was Jamie. Jeremy, you talked about risk on in the capital markets. What are you guys seeing in credit underwriting from your competitors? Is it getting crazier or no, it's still pretty good? What's the outlook there, please?",
+    "token_count": 139,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_59",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " was Jamie. Jeremy, you talked about risk on in the capital markets. What are you guys seeing in credit underwriting from your competitors? Is it getting crazier or no, it's still pretty good? What's the outlook there, please? [Jeremy Barnum (executive)]: I mean, crazy is a strong word, but I spent some time looking into this issue a week ago, and we did hear some example. I mean, I don't know. For whatever reason, I think the data center underwriting space is one that resonates with me as a kind of bellwether for what people are doing. We passed on some deals that obviously because when you look at the data center stuff, the key question is what happens with power supply? What happens with tenants? It's a well-discussed thing, and we have a pretty precise framework to govern what we're willing to do and what we're not willing to do in that space across those types of risks. We saw some deals come through where we were just like, \"Yeah, we're not doing that.\" It's normal, I guess. It's competitive, and people are eager to be involved. In some cases, there's ironically some element of relationship lending that's happening through the data center space when it's kind of a startup entity that's building the data center. That's part of the story a little bit too.",
+    "token_count": 286,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_60",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " to be involved. In some cases, there's ironically some element of relationship lending that's happening through the data center space when it's kind of a startup entity that's building the data center. That's part of the story a little bit too. [Jeremy Barnum (executive)]: I don't think we're screaming from the rooftops that underwriting center is such a class, but I think you see normal pressures, and we're navigating those in the way that we do, which is we do flex in some moments for particularly important clients in situations where we feel like it's the right thing to do. In general, we try to be the one that holds the line and make sure that we're guided by our own risk appetite and a kind of appropriately skeptical view of the environment.",
+    "token_count": 161,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_61",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " in situations where we feel like it's the right thing to do. In general, we try to be the one that holds the line and make sure that we're guided by our own risk appetite and a kind of appropriately skeptical view of the environment. [Jamie Dimon (executive)]: We didn't talk about a huge deterioration in credit underwriting standards. I think we talked about it as a very mild one, but it's across several spectrum, which is people assumptions on revenue growth or add back of expenses, more PIK, and this is not across the board, by the way. It's more some players than others. Some weaker covenants, some people taking more rollover risk. By that I mean if rates go up, how much interest rate exposure you're taking as opposed to underlying exposure, and it's just things like that. It is across that spectrum, you've seen a little bit of weakness. The only point we're always trying to make is when there's a credit cycle, and there will be a credit cycle, how will everybody perform? I don't think it's going to be like a bell curve of performance. I think there'll be some outliers out there, just like there were, by the way, in the great financial crisis.",
+    "token_count": 260,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_62",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " a credit cycle, how will everybody perform? I don't think it's going to be like a bell curve of performance. I think there'll be some outliers out there, just like there were, by the way, in the great financial crisis. [Gerard Cassidy (analyst)]: I totally agree with you, Jamie, on that. I don't want to sound Pollyannish, but on a question regarding the regulatory outlook, obviously we've got Basel III endgame. Hopefully, it'll be codified maybe by the end of the year. I know you guys have put out your remarks on it. Next year, hopefully we get tailoring. Could you envision a period where, and again, I don't want to sound Pollyannish, but a period where the regulators are just set, where you go, because the last 20 years there's been constant change with the regulators affecting the banking industry. Could we enter a period where we have a stability in the regulatory environment which could enhance valuations possibly for bank stocks?",
+    "token_count": 211,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_63",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " just set, where you go, because the last 20 years there's been constant change with the regulators affecting the banking industry. Could we enter a period where we have a stability in the regulatory environment which could enhance valuations possibly for bank stocks? [Jeremy Barnum (executive)]: I would break the question down into two parts, could we envision stability and impact on valuations? On the question of stability, I don't think it's Pollyannish to say that regulatory stability is a desirable thing. I actually think it's a relatively nonpartisan idea. I think it's understandable and correct that there would've been a big reaction to the crisis then maybe a reaction to the reaction, and that the sort of amplitude of those oscillations might be decreasing and we get to a place where we've got it about right. Frankly, we get to a point where banks are primarily focused not on complying with regulatory constraints of various types, which should probably, in general, operate as backstops, but rather thinking about what their own standards are and what their own risk appetite is and have that be kind of the true north of any given set of decisions. I think we're getting closer to that state, which will be good. Whether achieving that state would be particularly supportive of bank stock valuations, I'll leave that question to you. At least I think for banks like us, I'm not convinced that's a major drag right now, to be honest, or that it has been in the recent past.",
+    "token_count": 308,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_64",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " supportive of bank stock valuations, I'll leave that question to you. At least I think for banks like us, I'm not convinced that's a major drag right now, to be honest, or that it has been in the recent past. [Jamie Dimon (executive)]: Yeah. I would just add there's one litigate Supreme Court decision that makes it less likely that we would have flip-flopping, which is a president can remove a lot of people more easily. I'm hoping what really should happen now is when they write legislation, they could be more clear about their intent and what they want because they could have written it and said, \"We want this independent,\" or, \"You can only replace so many,\" or, \"We don't want flip-flopping regulations.\" I really like the fact that Mickey Bowman and Kevin Warsh are taking a step back and looking at the broad range of changes which have been extensive over 20 years. It never ended. Often with no ultimate intent or intended consequence, whether they want in a system or outside a system, it makes it safer. I actually believe it can make the system much safer. Much safer. That should be the real goal. Not just adding layer upon layer of bureaucratic reporting. Some of the regulators said that from now on, they're going to focus on safety and soundness. Well, if they do that, we would have no MRAs because none of them related to our safety and soundness. They related to other issues. I think had we related to safety and soundness, Silicon Valley Bank and First Republic wouldn't have happened simply upon they were taking too much interest rate risk, which was disclosed. That one thing.",
+    "token_count": 350,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_65",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": " and soundness. They related to other issues. I think had we related to safety and soundness, Silicon Valley Bank and First Republic wouldn't have happened simply upon they were taking too much interest rate risk, which was disclosed. That one thing. [Jamie Dimon (executive)]: I just think the goal should be to take a step back, look at these things in the open light, be very honest about what worked and what didn't work. Like resolution did not work. Resolution recovery does not work. People should look at the discount window differently. Anyway, if those things are done, I think we can have a safer banking system where we don't have to be breathless every time a bank fails. [Gerard Cassidy (analyst)]: Thank you. My thoughts exactly. Thank you, Jamie. [Jamie Dimon (executive)]: You guys are the guys who know so much about this that should be making some of these recommendations to the regulators. It's in all of our interest, the system be better. Not any one of us, all of us. [Gerard Cassidy (analyst)]: Agreed. Thank you, Jamie, and thank you, Jeremy. [Operator (operator)]: Thank you. For our final question, we will go to the line of Manan Gosalia from Morgan Stanley. Your line is open.",
+    "token_count": 279,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_66",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": ")]: Agreed. Thank you, Jamie, and thank you, Jeremy. [Operator (operator)]: Thank you. For our final question, we will go to the line of Manan Gosalia from Morgan Stanley. Your line is open. [Manan Gosalia (analyst)]: Hey, good morning. Jeremy, as we think about the various expense buckets you called out at the start of the year, the volume related expenses, bankers, tech, marketing, I know a majority of the increase in the expense guide is coming in the revenue related line, are you also bringing up some of the other categories, maybe pulling forward any tech or marketing spend given the environment?",
+    "token_count": 138,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_67",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " expenses, bankers, tech, marketing, I know a majority of the increase in the expense guide is coming in the revenue related line, are you also bringing up some of the other categories, maybe pulling forward any tech or marketing spend given the environment? [Jeremy Barnum (executive)]: Yeah, there's some of that stuff going on, I'm trying to sort of keep it simple and disproportionately focus on the big driver, which is obviously volume and revenue related expense. As is always the case, there are some ups and downs, some of which relates to things like our marketing strategy, which I probably don't particularly want to disclose. I think one topic which is not financially meaningful this year, but which I think is interesting and may become in the future, is the question of token expense. That is something that we're spending a bunch of time on, I think as probably pretty much everyone in corporate America is. Just for the avoidance of doubt, it is a trivial number for the first half of the year. We are forecasting some meaningful acceleration in that number for the second half of the year. Still, nonetheless, the full year contribution of that is still trivial, and obviously we had budgeted some of that, so it's not in any way a meaningful driver of the current outlook or to the revision of the outlook. Obviously, when you listen to the Frontier Labs talk, they talk about the exponential and the acceleration of usage, which is obviously driving their revenues and someone's paying those bills. We're, in a sense, like a representation of the economy as a whole, that we're probably lagging a little bit some of the cutting edge adoption and usage as we should given who we are as a company.",
+    "token_count": 350,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_68",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": "'s paying those bills. We're, in a sense, like a representation of the economy as a whole, that we're probably lagging a little bit some of the cutting edge adoption and usage as we should given who we are as a company. [Jeremy Barnum (executive)]: It is an important question for us as we go into next year and the subsequent years. I think the good news is that we've done a lot of really high quality thinking on this, and a lot of the infrastructure that we've built over the last couple of years is going to position us to be quite sophisticated about using the right models for the right purpose. I mean, just to use one sort of topical example, and no offense intended to those of you who tend to write slightly long reports, but as you can imagine, sometimes people like to summarize those reports using AI tools. As you know, the tools are quite good at doing that, and you really don't need the latest cutting edge incredibly expensive model to summarize an analyst report. The idea is use the right model for the right purpose, be smart about open source where appropriate, and ensure that you're getting value out of it ultimately. In the end, either we're going to have a lot more capacity or we're going to have a lot more efficiency or both, or we're going to have better revenue outcomes, or we're going to compete more effectively, and we just need to be disciplined about how we handle that. That's a body of work that's happening right now.",
+    "token_count": 312,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_69",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "analyst",
+    "text": " lot more efficiency or both, or we're going to have better revenue outcomes, or we're going to compete more effectively, and we just need to be disciplined about how we handle that. That's a body of work that's happening right now. [Manan Gosalia (analyst)]: Got it. Very helpful. Maybe just on CIB and the increased capital allocation there. How nimble do you expect to be there? Do you think we're at peak allocation here? Are there any internal limits that you might be rubbing up against? Is there room to keep allocating more balance sheet to the business if the environment remains where it is?",
+    "token_count": 131,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_70",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "executive",
+    "text": " do you expect to be there? Do you think we're at peak allocation here? Are there any internal limits that you might be rubbing up against? Is there room to keep allocating more balance sheet to the business if the environment remains where it is? [Jeremy Barnum (executive)]: I'm definitely not going to get into discussions with you about internal limit management. It was on the press call, some of you didn't hear this, but I did get a question about this, and I think you said this correctly, but I just want to err on the side of being precise here. Sometimes people think about capital allocation almost as if it's a hedge fund where you're giving a pot of people some capital and telling them to go use it. That's not the way it works. It's the opposite of that. In other words, we have demand from clients to support them in various ways. To be clear, we also have some what you might describe as passive effects. Obviously when volatility is higher, market risk capital goes up passively and simply the appreciation of global equity markets increases the RWA associated with things like the prime business. You've got active and passive effects, but the active effects are us responding to client needs. Obviously we've got a ton of excess as a company, and as Jamie said, our primary goal is to deploy that organically. When our CIB clients want us to serve them, and we can do that in ways that make sense for us from a risk appetite and from a returns perspective, we've got plenty of capital to do that. We do that.",
+    "token_count": 326,
+    "strategy": "speaker_turn_overlap"
+  },
+  {
+    "chunk_id": "JPM_2026_Q2_turnoverlap_71",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "section": "prepared_remarks",
+    "speaker_role": "operator",
+    "text": " organically. When our CIB clients want us to serve them, and we can do that in ways that make sense for us from a risk appetite and from a returns perspective, we've got plenty of capital to do that. We do that. [Jeremy Barnum (executive)]: Sometimes there are other financial resource constraints, and that's part of what we do for a living is try to manage that stuff. I talked a little bit at company update, if you recall, about the system and the fact that the system is currently quite flush with capital, but at the margin, less flush with liquidity. That's obviously an area of advocacy, especially in light of the stated goal to reduce the size of the Fed balance sheet. You really need to reduce bank demand for reserves to get that done, that in turn probably requires some adjustment to liquidity regulation. That's the next thing on the agenda. [Jamie Dimon (executive)]: Right. Our risk standards haven't changed. It's possible some of these things change because people self-select and pick somebody else, and that would be fine with us. [Jamie Dimon (executive)]: All right. Thank you. [Operator (operator)]: Thank you. We have no further. Thank you all for participating in today's conference. You may disconnect at this time, and have a great rest of your day.",
+    "token_count": 281,
+    "strategy": "speaker_turn_overlap"
+  }
+]

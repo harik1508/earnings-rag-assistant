@@ -1,0 +1,27 @@
+# Virtual environment -- never commit this, it's huge and machine-specific.
+# Anyone cloning the repo runs `pip install -r requirements.txt` instead.
+.venv2/
+venv/
+__pycache__/
+*.pyc
+
+# Local-only observability log -- resets per machine/session, not needed
+# in the repo. The deployed app generates its own.
+data/processed/query_log.jsonl
+
+# Raw transcripts are large and were only ever a local intermediate step --
+# the parsed/chunked JSON files (which ARE committed, see below) are what
+# the app actually needs at runtime.
+data/raw/*.txt
+
+# Local secrets file, if you ever create one for local testing --
+# Streamlit Cloud's own secrets manager is separate from this and is NOT
+# affected by gitignoring this.
+.streamlit/secrets.toml
+
+# OS/editor noise
+.DS_Store
+*.swp
+
+# NOTE: data/processed/chunks/*.json is intentionally NOT ignored --
+# the deployed app reads these directly, so they must be committed.

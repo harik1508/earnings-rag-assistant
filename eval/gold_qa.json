@@ -1,0 +1,310 @@
+[
+  {
+    "id": "msft_2026_q1_01",
+    "company": "MSFT",
+    "quarter": "2026_Q1",
+    "question": "Did CFO Amy Hood quantify the exact dollar amount of revenue lost due to Azure capacity constraints in Q1 FY2026?",
+    "gold_answer": "Management declined to provide a concrete dollar figure, noting 'it's always hard to quantify precisely what would have been the revenue impact in the quarter,' only confirming that Azure bore the brunt of capacity shortages.",
+    "gold_chunk_id": "MSFT_2026_Q1_turn_42",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "msft_2026_q3_01",
+    "company": "MSFT",
+    "quarter": "2026_Q3",
+    "question": "What were the key financial terms and IP durations updated in Microsoft's revised agreement with OpenAI discussed in FY2026?",
+    "gold_answer": "The agreement established that OpenAI model/product IP rights extend royalty-free through 2032, the revenue-sharing mechanism exists through 2030, and OpenAI contracted an incremental $250 billion in Azure services.",
+    "gold_chunk_id": "MSFT_2026_Q3_turn_42",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "msft_2026_q4_01",
+    "company": "MSFT",
+    "quarter": "2026_Q4",
+    "question": "What was Microsoft's Azure and other cloud services revenue growth rate in Q4 FY2026?",
+    "gold_answer": "Azure and other cloud services revenue grew 43% year over year (43% in constant currency), with demand continuing to exceed available capacity.",
+    "gold_chunk_id": "MSFT_2026_Q4_turn_19",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "msft_2026_q4_02",
+    "company": "MSFT",
+    "quarter": "2026_Q4",
+    "question": "How many paid Microsoft 365 Copilot seats did Microsoft reach by the end of Q4 FY2026?",
+    "gold_answer": "Microsoft surpassed 30 million paid Microsoft 365 Copilot seats, with net seat adds more than doubling sequentially.",
+    "gold_chunk_id": "MSFT_2026_Q4_turn_18",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "msft_2026_q4_03",
+    "company": "MSFT",
+    "quarter": "2026_Q4",
+    "question": "What accounting change did Microsoft announce regarding the useful life of data center and office assets starting in FY2027?",
+    "gold_answer": "Microsoft extended the estimated useful life of its data centers and office buildings from 15 to 25 years, causing future data center leases to shift from finance leases to operating leases.",
+    "gold_chunk_id": "MSFT_2026_Q4_turn_21",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "msft_2026_q4_04",
+    "company": "MSFT",
+    "quarter": "2026_Q4",
+    "question": "Did Satya Nadella provide a specific timeline or probability for achieving Artificial General Intelligence (AGI)?",
+    "gold_answer": "Satya Nadella deflected committing to any timeframe, stating he does not believe AGI as defined in their contracts will be achieved anytime soon, framing AI instead as 'jagged intelligence' requiring pragmatic system scaffolding.",
+    "gold_chunk_id": "MSFT_2026_Q4_turn_47",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "msft_cross_quarter_01",
+    "company": "MSFT",
+    "quarter": "multi",
+    "question": "How did Microsoft 365 Copilot paid seats grow sequentially across FY2026 from Q2 to Q4?",
+    "gold_answer": "Paid seats expanded from 15 million in Q2 (January 2026) to over 20 million in Q3 (April 2026), and reached over 30 million in Q4 (July 2026).",
+    "question_type": "cross_quarter",
+    "gold_chunk_ids": [
+      "MSFT_2026_Q2_turn_8",
+      "MSFT_2026_Q3_turn_7",
+      "MSFT_2026_Q4_turn_18"
+    ]
+  },
+  {
+    "id": "msft_cross_quarter_02",
+    "company": "MSFT",
+    "quarter": "multi",
+    "question": "How did Microsoft's Commercial Remaining Performance Obligation (RPO) evolve from Q1 FY2026 through Q4 FY2026?",
+    "gold_answer": "Commercial RPO was $392 billion in Q1, grew to $625 billion in Q2, reached $627 billion in Q3, and ended the fiscal year at $678 billion in Q4.",
+    "question_type": "cross_quarter",
+    "gold_chunk_ids": [
+      "MSFT_2026_Q1_turn_14",
+      "MSFT_2026_Q4_turn_17"
+    ]
+  },
+  {
+    "id": "nvda_2026_q4_01",
+    "company": "NVDA",
+    "quarter": "2026_Q4",
+    "question": "Did management provide a specific quantitative estimate for the timeline when supply constraints in Gaming would resolve?",
+    "gold_answer": "Management hedged and did not provide a concrete timeline, stating only that 'we expect supply constraints to be the headwind to Gaming in Q1 and beyond'.",
+    "gold_chunk_id": "NVDA_2026_Q4_turn_6",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "nvda_2027_q1_01",
+    "company": "NVDA",
+    "quarter": "2027_Q1",
+    "question": "What was NVIDIA's Data Center revenue for the quarter reported on May 20, 2026, and what was its year-over-year growth rate?",
+    "gold_answer": "Data Center revenue was $75 billion, representing an increase of 92% year over year and 21% sequentially, driven by demand for the Blackwell architecture.",
+    "gold_chunk_id": "NVDA_2026_Q1_turn_1",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "nvda_2027_q1_02",
+    "company": "NVDA",
+    "quarter": "2027_Q1",
+    "question": "How did NVIDIA break down its Data Center platform into submarkets under its new reporting framework?",
+    "gold_answer": "NVIDIA segmented Data Center into two submarkets: Hyperscale (public cloud and consumer Internet companies, generating $38 billion) and ACIE (AI Cloud, Industrial, and Enterprise, generating $37 billion).",
+    "gold_chunk_id": "NVDA_2026_Q1_turn_1",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "nvda_2027_q1_03",
+    "company": "NVDA",
+    "quarter": "2027_Q1",
+    "question": "How much revenue did NVIDIA project for its standalone Vera CPU platform for the year?",
+    "gold_answer": "NVIDIA stated it had visibility to nearly $20 billion in total standalone CPU revenue for the year, unlocking a $200 billion total addressable market.",
+    "gold_chunk_id": "NVDA_2026_Q1_turn_7",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "nvda_2027_q1_04",
+    "company": "NVDA",
+    "quarter": "2027_Q1",
+    "question": "Did NVIDIA include any Data Center compute revenue from China in its Q2 outlook during the May 2026 call?",
+    "gold_answer": "No, NVIDIA explicitly excluded China data center compute revenue from its Q2 outlook because no H200 shipments had occurred or were anticipated due to import uncertainties.",
+    "gold_chunk_id": "NVDA_2026_Q1_turn_7",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "nvda_2027_q1_05",
+    "company": "NVDA",
+    "quarter": "2027_Q1",
+    "question": "Did management commit to whether the VeraRubin product ramp slope would match or exceed the GB300 ramp?",
+    "gold_answer": "Management hedged and declined to commit. CFO Colette Kress stated it was 'a little early to say' and 'hard to say at this point' whether the ramp would be faster, confirming only that shipments commence in Q3 and ramp into Q4 and Q1.",
+    "gold_chunk_id": "NVDA_2026_Q1_turn_39",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "nvda_2027_q1_06",
+    "company": "NVDA",
+    "quarter": "2027_Q1",
+    "question": "Did Jensen Huang confirm an exact long-term market share percentage for custom/niche accelerators like LPX?",
+    "gold_answer": "No, Jensen Huang avoided a definitive market share number, stating that whether LPX captures 10% or 20% depends on the evolution of AI, noting it is currently 'a lot less than 20%' and will remain a niche product for some time.",
+    "gold_chunk_id": "NVDA_2026_Q1_turn_26",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "nvda_cross_quarter_01",
+    "company": "NVDA",
+    "quarter": "multi",
+    "question": "How did NVIDIA's total quarterly revenue and long-term Blackwell/Rubin visibility expectation change from Q3 FY2026 to Q1 FY2027?",
+    "gold_answer": "Total revenue rose from $57 billion in Q3 FY2026 to $68 billion in Q4 FY2026 and $82 billion in Q1 FY2027. Multi-year platform visibility increased from $500 billion (for 2025\u20132026) in Q3 FY2026 to $1 trillion (for 2025\u20132027) in Q1 FY2027.",
+    "question_type": "cross_quarter",
+    "gold_chunk_ids": [
+      "NVDA_2026_Q3_turn_0",
+      "NVDA_2026_Q4_turn_0",
+      "NVDA_2026_Q1_turn_1"
+    ]
+  },
+  {
+    "id": "jpm_2026_q1_01",
+    "company": "JPM",
+    "quarter": "2026_Q1",
+    "question": "What did JPMorgan Chase report for net income and return on tangible common equity (ROTCE) for the quarter ending March 31, 2026?",
+    "gold_answer": "JPMorgan Chase reported net income of $16.5 billion, diluted earnings per share of $5.94, and an ROTCE of 23%.",
+    "gold_chunk_id": "JPM_2026_Q1_turn_0",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "jpm_2026_q1_02",
+    "company": "JPM",
+    "quarter": "2026_Q1",
+    "question": "How much total private credit exposure did JPMorgan Chase quantify within its core non-bank financial institution (NBFI) portfolio?",
+    "gold_answer": "JPMorgan Chase quantified its private credit exposure at approximately $50 billion within its $160 billion core NBFI portfolio, specifically consisting of leveraged loan investor back leverage and BDC lending.",
+    "gold_chunk_id": "JPM_2026_Q1_turn_59",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "jpm_2026_q2_01",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "question": "What was the growth rate and total revenue reported for JPMorgan Chase's Equity Markets business in Q2 2026?",
+    "gold_answer": "Equity Markets revenue reached $6.0 billion, an 86% increase year over year driven by strong client flows, dynamic market conditions, and favorable trading across derivatives, cash, and prime brokerage.",
+    "gold_chunk_id": "JPM_2026_Q2_turn_3",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "jpm_2026_q1_03",
+    "company": "JPM",
+    "quarter": "2026_Q1",
+    "question": "Did management commit to a specific launch date and rollout timeline for the AI cash tool across the entire consumer deposit base?",
+    "gold_answer": "Management did not commit to a launch date or a broad rollout timeline. Jeremy Barnum and Jamie Dimon hedged by clarifying that the tool was in early testing/experiment phases and 'kind of not even live yet', targeted initially only at a very small subset of investment-focused clients.",
+    "gold_chunk_id": "JPM_2026_Q1_turn_9",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "jpm_2026_q1_04",
+    "company": "JPM",
+    "quarter": "2026_Q1",
+    "question": "Did management commit to reducing operational spending across future quarters to strictly hit the initial $105 billion adjusted expense target?",
+    "gold_answer": "Management did not commit to trimming costs to hit the target. Jamie Dimon explicitly stated that '$105 billion is not a promise, it's an outcome of business results' and emphasized they would willingly spend more if high volume and revenue outperformance continued.",
+    "gold_chunk_id": "JPM_2026_Q1_turn_40",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "jpm_2026_q2_02",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "question": "Did Jamie Dimon provide a specific retirement or transition date following the elevation of two co-presidents in Q2 2026?",
+    "gold_answer": "Jamie Dimon did not commit to a specific retirement date or timeline change, reiterating that the schedule remains 'essentially the same' as previously stated ('several years' or 'a few years'), while noting the decision is entirely up to the board.",
+    "gold_chunk_id": "JPM_2026_Q2_turn_21",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "jpm_2026_q2_03",
+    "company": "JPM",
+    "quarter": "2026_Q2",
+    "question": "Did Jeremy Barnum commit to internal limits or a cap on capital allocation to the Commercial & Investment Bank (CIB)?",
+    "gold_answer": "Management declined to discuss internal limits. Jeremy Barnum stated 'I'm definitely not going to get into discussions with you about internal limit management,' explaining that capital allocation is driven dynamically by client demand rather than fixed fund pots.",
+    "gold_chunk_id": "JPM_2026_Q2_turn_65",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "jpm_cross_quarter_01",
+    "company": "JPM",
+    "quarter": "multi",
+    "question": "How did JPMorgan Chase's full-year 2026 outlook for NII ex-Markets and adjusted noninterest expenses change between Q1 2026 and Q2 2026?",
+    "gold_answer": "Between Q1 and Q2 2026, the full-year NII ex-Markets guidance was raised from approximately $95 billion to approximately $96.5 billion (and total NII from ~$103 billion to ~$105.5 billion), while the adjusted expense guidance was raised from approximately $105 billion to approximately $107.5 billion.",
+    "question_type": "cross_quarter",
+    "gold_chunk_ids": [
+      "JPM_2026_Q1_turn_40",
+      "JPM_2026_Q2_turn_1"
+    ]
+  },
+  {
+    "id": "cost_2026_q2_01",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "question": "What was Costco's total membership fee income and how much did it increase year over year in Q2 FY2026?",
+    "gold_answer": "Costco reported membership fee income of $1.36 billion (or $1.355 billion), representing an increase of 13.6% year over year, with about one-third of the gain attributed to the fee increase.",
+    "gold_chunk_id": "COST_2026_Q2_turn_5",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "cost_2026_q2_02",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "question": "What was Costco's US and Canada membership renewal rate at the end of Q2 FY2026?",
+    "gold_answer": "Costco reported a US and Canada renewal rate of 92.1% at the end of Q2 FY2026 (down 10 basis points sequentially), while the global renewal rate held flat at 89.7%.",
+    "gold_chunk_id": "COST_2026_Q2_turn_5",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "cost_2026_q2_03",
+    "company": "COST",
+    "quarter": "2026_Q2",
+    "question": "Did management give a precise upper ceiling or target for long-term annual digital and e-commerce penetration as a percentage of total sales?",
+    "gold_answer": "Management did not commit to an exact long-term digital sales percentage target. Executives highlighted that digitally enabled sales grew 22.6% and continue to outpace warehouse sales, but refrained from setting a fixed penetration ceiling.",
+    "gold_chunk_id": "COST_2026_Q2_turn_4",
+    "question_type": "evasiveness_test"
+  },
+  {
+    "id": "cost_cross_quarter_01",
+    "company": "COST",
+    "quarter": "multi",
+    "question": "How did Costco's total warehouse count change from Q2 FY2026 to Q3 FY2026?",
+    "gold_answer": "Costco's total warehouse network increased from 924 warehouses at the end of Q2 FY2026 to 928 warehouses worldwide by the end of Q3 FY2026 (4 net new openings in the quarter).",
+    "question_type": "cross_quarter",
+    "gold_chunk_ids": [
+      "COST_2026_Q2_turn_2",
+      "COST_2026_Q3_turn_3"
+    ]
+  },
+  {
+    "id": "cost_cross_quarter_02",
+    "company": "COST",
+    "quarter": "multi",
+    "question": "How did Costco's membership fee revenue compare between Q2 FY2026 and Q3 FY2026?",
+    "gold_answer": "Costco's membership fee revenue rose from $1.36 billion in Q2 FY2026 (up 13.6% YoY) to $1.37 billion in Q3 FY2026 (up 11% YoY).",
+    "question_type": "cross_quarter",
+    "gold_chunk_ids": [
+      "COST_2026_Q2_turn_5",
+      "COST_2026_Q3_turn_6"
+    ]
+  },
+  {
+    "id": "luv_2026_q4_01",
+    "company": "LUV",
+    "quarter": "2026_Q4",
+    "question": "What did Southwest Airlines report for fourth quarter operating revenue and full-year adjusted EPS for 2025?",
+    "gold_answer": "Southwest reported record fourth quarter operating revenues of $7.4 billion ($28.0 billion for the full year) and a full-year 2025 adjusted EPS of $0.93.",
+    "gold_chunk_id": "LUV_2026_Q4_turn_0",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "luv_2026_q4_02",
+    "company": "LUV",
+    "quarter": "2026_Q4",
+    "question": "What was Southwest Airlines' initial adjusted EPS guidance for full-year 2026 given during the Q4 2025 call?",
+    "gold_answer": "Southwest provided a full-year 2026 adjusted EPS guidance of 'at least $4.00', which management stated represented the lower end of their internal forecast.",
+    "gold_chunk_id": "LUV_2026_Q4_turn_0",
+    "question_type": "direct_factual"
+  },
+  {
+    "id": "luv_2026_q4_03",
+    "company": "LUV",
+    "quarter": "2026_Q4",
+    "question": "Did CEO Bob Jordan provide an upper range for full-year 2026 adjusted earnings per share in the Q4 2025 call?",
+    "gold_answer": "Management did not commit to an upper EPS range. Bob Jordan explicitly qualified the guidance as 'at least $4.00' representing the lower bound, intentionally withholding an upper ceiling until initiative traction progressed further.",
+    "gold_chunk_id": "LUV_2026_Q4_turn_0",
+    "question_type": "evasiveness_test"
+  }
+]
