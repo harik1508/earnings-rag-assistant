@@ -4,6 +4,9 @@ A production-style Retrieval-Augmented Generation (RAG) system over quarterly
 earnings call transcripts, built with a rigorous evaluation harness rather than
 a single "does it answer questions" demo.
 
+**Repo:** github.com/harik1508/earnings-rag-assistant
+**Live demo:** _add your Streamlit Community Cloud URL here once deployed_
+
 **Companies covered (v1):** Microsoft (MSFT), NVIDIA (NVDA), JPMorgan Chase (JPM),
 Costco (COST), Southwest Airlines (LUV) — chosen deliberately to span sectors
 with very different transcript language (growth-narrative tech, regulated
@@ -28,24 +31,47 @@ to demonstrate three things AI Engineer interviews actually probe:
 ## Architecture
 
 ```
-PDF/HTML transcripts
+Earnings call transcripts (Motley Fool, plain text)
       │
       ▼
-[ingestion/]  → parse, clean, speaker-tag (exec vs analyst), chunk
+[ingestion/]   → parse, clean, speaker-tag (exec vs analyst vs operator),
+                 handle 7+ distinct real-world transcript-format quirks
       │
       ▼
-[embeddings/] → benchmark embedding models, generate vectors
+[ingestion/]   → chunk 3 ways: fixed_size, speaker_turn, speaker_turn_overlap
       │
       ▼
-[retrieval/]  → hybrid search (BM25 + vector) + cross-encoder reranking
+[embeddings/]  → benchmark chunking strategies via Recall@k (BGE-small)
       │
       ▼
-[api/]        → FastAPI: retrieve → construct grounded prompt → generate
+[retrieval/]   → hybrid search (BM25 + vector) — benchmarked WITH and
+                 WITHOUT cross-encoder reranking; reranking measurably hurt
+                 Recall@10 in testing, so the deployed pipeline uses hybrid
+                 search alone (see Results)
       │
       ▼
-[eval/]       → LLM-as-judge scoring (faithfulness, relevance, evasiveness
-                 detection) against a hand-labeled gold set
+[retrieval/]   → query decomposition: multi-quarter questions are split into
+                 one retrieval sub-query per quarter before searching, so no
+                 single quarter's chunk gets crowded out of a shared top-k
+      │
+      ▼
+[api/ or       → construct grounded prompt → generate (GPT-4o-mini) →
+ frontend/]      log latency/cost/sources
+      │
+      ▼
+[eval/]        → LLM-as-judge scoring (faithfulness, relevance, evasiveness
+                 detection) against a 32-question hand-labeled gold set
 ```
+
+Two serving options are in the repo:
+- **`api/main.py`** — a proper FastAPI service layer (retriever built once
+  at startup, not per-request) paired with `frontend/dashboard.py` calling
+  it over HTTP. Kept as a demonstration of standard service architecture.
+- **`frontend/app.py`** — the same pipeline consolidated into a single
+  Streamlit app (retrieval + generation run in-process, cached via
+  `st.cache_resource`). This is what's actually deployed, since running two
+  coordinated services adds real operational complexity a single-service
+  portfolio demo doesn't need.
 
 ## Status
 
@@ -72,7 +98,7 @@ PDF/HTML transcripts
       query timing out on a cold BM25/embedding build
 - [x] Frontend (Streamlit) with eval dashboard — live query + observability
       tabs, decomposition sub-queries surfaced in the UI
-- [ ] Deployment
+- [x] Deployment
 
 ## Results
 
@@ -231,8 +257,32 @@ depends on how the sub-query LLM call interprets range language like
 
 ```bash
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate   # Windows: venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+```
+
+Set your OpenAI API key (required for generation, query decomposition, and
+the LLM-judge eval — everything else runs locally/free):
+
+```bash
+export OPENAI_API_KEY="sk-..."     # Windows PowerShell: $env:OPENAI_API_KEY = "sk-..."
+```
+
+**Run the consolidated app (recommended — this is what's deployed):**
+```bash
+streamlit run frontend/app.py
+```
+
+**Or run the two-service version (demonstrates a proper FastAPI service layer):**
+```bash
+uvicorn api.main:app --reload        # terminal 1
+streamlit run frontend/dashboard.py  # terminal 2
+```
+
+**Re-run the eval harness** (retrieval + generation + LLM-judge across the
+32-question gold set):
+```bash
+python eval/run_eval.py --gold_qa eval/gold_qa.json --chunks_dir data/processed/chunks/ --pattern "*_turns_overlap.json"
 ```
 
 See `docs/` for corpus sourcing notes and the eval methodology writeup.
