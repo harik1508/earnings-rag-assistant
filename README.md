@@ -5,7 +5,7 @@ earnings call transcripts, built with a rigorous evaluation harness rather than
 a single "does it answer questions" demo.
 
 **Repo:** github.com/harik1508/earnings-rag-assistant
-**Live demo:** _add your Streamlit Community Cloud URL here once deployed_
+**Live demo:** (https://earnings-rag-assistant-r2v3dbizotvj8a6wt8jfa8.streamlit.app/)
 
 **Companies covered (v1):** Microsoft (MSFT), NVIDIA (NVDA), JPMorgan Chase (JPM),
 Costco (COST), Southwest Airlines (LUV) — chosen deliberately to span sectors
